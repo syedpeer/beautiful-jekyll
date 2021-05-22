@@ -9,7 +9,7 @@ My name is Syed Peer.
 - I am an Engineering/Program Manager
 - I have over 20 years of experience in Software development
 - Passionate about FinTech 
-- Curiuos abou all things tech !!
+- Curiuos about all things tech !!
 
 What else do you need?
 
