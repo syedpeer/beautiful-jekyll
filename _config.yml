@@ -17,7 +17,6 @@ navbar-links:
   About Me: "aboutme"
   Projects: "projects"
   Resources:
-    - Projects: "projects"
     - Portfolio: "projects"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
