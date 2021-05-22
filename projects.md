@@ -4,14 +4,16 @@ title: Projects
 subtitle: Busy building stuff 
 ---
 
-My name is Syed Peer. 
+This is a collection of some personal projects I’ve worked on that are easily viewable online. Anything that is not browser-friendly will not make the cut :(
 
-- I am an Engineering/Program Manager
-- I have over 20 years of experience in Software development
-- Passionate about FinTech 
-- Curiuos abou all things tech !!
+I’m also available for consulting, so feel free to contact me if you’d like to work together.
 
-What else do you need?
+I am interested in:  
+
+- Ghost writing for blogs. 
+- Creative writing. 
+- Progressive Web App developmentfor mobile
+- FinTech Akgo Development
 
 ### My story
 
