@@ -10,10 +10,11 @@ I’m also available for consulting, so feel free to contact me if you’d like 
 
 I am interested in:  
 
-- Ghost writing for blogs. 
-- Creative writing. 
-- Progressive Web App developmentfor mobile
-- FinTech Akgo Development
+- Creative or Ghost blog writing
+- Technical writing for IT/OT/Cyber Security
+- Email Design and development
+- Mobile Progressive Web App (PWA) development
+- Algo Trading Strategy Development (FinTech)
 
 ### My story
 
