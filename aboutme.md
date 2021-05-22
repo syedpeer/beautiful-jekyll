@@ -7,8 +7,8 @@ subtitle: What you need to know
 My name is Syed Peer. I have the following qualities:
 
 - I am an Engineering/Program Manager
-- I have over 20 years of experience in Ssoftware development
-- rock a great mustache
+- I have over 20 years of experience in Software development
+- Passionate about FinTech 
 - Curiuos abou all things tech !!
 
 What else do you need?
