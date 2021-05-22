@@ -4,7 +4,7 @@ title: About me
 subtitle: What you need to know
 ---
 
-My name is Syed Peer. I have the following qualities:
+My name is Syed Peer. 
 
 - I am an Engineering/Program Manager
 - I have over 20 years of experience in Software development
@@ -15,4 +15,4 @@ What else do you need?
 
 ### My story
 
-More to follow here. In the mean time you can checkout [my LinkedIn](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) profile for the answers to **all** your questions.
+More to follow here. In the mean time you can checkout [my LinkedIn](https://www.linkedin.com/in/syedpeer) profile for the answers to **all** your questions.
