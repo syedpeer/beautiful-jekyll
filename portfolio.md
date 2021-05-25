@@ -22,7 +22,7 @@ I am interested in:
 
 Hacking Magazine 
 
-<iframe src="https://docs.google.com/file/d/0B8aGkJVsdqiJamVpUnJ1TDlFbFU/preview" width="100%" height="20%"></iframe>
+<iframe src="/aasets/pdfs/Hackin9 Social Engineering Attacks.pdf" width="100%" height="20%"></iframe>
 
 More to follow here. 
 
