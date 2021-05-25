@@ -22,6 +22,8 @@ I am interested in:
 
 Hacking Magazine 
 
+<iframe src="https://docs.google.com/file/d/0B8aGkJVsdqiJamVpUnJ1TDlFbFU/preview" width="100%" height="100%"></iframe>
+
 More to follow here. 
 
 In the mean time you can checkout [my LinkedIn](https://www.linkedin.com/in/syedpeer) profile for the answers to **all** your questions.
