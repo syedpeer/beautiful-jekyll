@@ -22,8 +22,7 @@ I am interested in:
 
 Hacking Magazine 
 
-[comment]: # ![Crepe](/assets/img/Hackin9-Social-Engineering-Attacks-cover.png){: .mx-auto.d-block :}
-[![Ancient Bristlecone Pine Forest, USA](/assets/img/Hackin9-Social-Engineering-Attacks-cover.png)](/assets/pdfs/Hackin9 Social Engineering Attacks.pdf){: .mx-auto.d-block :}
+[![ASocial Engineering Attacks](/assets/img/Hackin9-Social-Engineering-Attacks-cover.png)](/assets/pdfs/Hackin9 Social Engineering Attacks.pdf){: .mx-auto.d-block :}
 
 Hacking Magazine 
 
