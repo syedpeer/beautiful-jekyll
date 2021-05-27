@@ -26,7 +26,7 @@ Hacking Magazine
 
 Hacking Magazine 
 
-[![Cyber Kill Chain](/assets/img/Hackin9-Cyber-Kill-Chain-cover.png)](/assets/pdfs/H9-Published-Cyber-Kill-Chain.pdf)
+[![Cyber Kill Chain](/assets/img/Hackin9-Cyber-Kill-Chain-cover.png)](/assets/pdfs/Hackin9 Cyber Kill Chain.pdf)
 
 Hacking Magazine 
 
