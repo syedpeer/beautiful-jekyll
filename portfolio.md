@@ -22,9 +22,13 @@ I am interested in:
 
 Hacking Magazine 
 
+The modern web and social platforms in particular provide the perfect window into our lives, but are only effective so far as we allow them to be. A fun weekend exercise for young and old alike is just to type your name into the Google Search field and watch all the references that come back to you in an instant. It can be an eye-opening experience that so much information about ourselves (both the good and the bad) is actually out there for the general public to see.
+
 [![ASocial Engineering Attacks](/assets/img/Hackin9-Social-Engineering-Attacks-cover.png)](/assets/pdfs/Hackin9 Social Engineering Attacks.pdf)
 
 Hacking Magazine 
+
+We take for granted as standard fare things these days that have their origins in solutions within other industries (e.g. modern Project Management and Critical Path come to mind from Aerospace), so too was the case with the original “Kill Chain”. Lockheed Martin, a major defense contractor for the US Military (DOD), was instrumental in deriving the “Kill Chain” model based upon its military use case.
 
 [![Cyber Kill Chain](/assets/img/Hackin9-Cyber-Kill-Chain-cover.png)](/assets/pdfs/Hackin9 Cyber Kill Chain.pdf) 
 
