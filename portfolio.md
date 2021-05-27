@@ -34,7 +34,7 @@ Hacking Magazine
 
 Hacking Magazine 
 
-[![Mobile Threat Landscape](/assets/img/H9-Mobile-Threat-landscape-cover.png)](/assets/pdfs/H9-Mobile-Threat-landscape.pdf) 
+[![Mobile Threat Landscape](/assets/img/H9-Mobile-Threat-landscape-cover.png)](/assets/pdfs/H9-Mobile-Threat-landscape.pdf)
 
 [comment]: # <iframe src="/assets/pdfs/Hackin9 Social Engineering Attacks.pdf" width="100%" height="20%"></iframe>
 
