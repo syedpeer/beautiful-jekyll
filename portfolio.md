@@ -30,6 +30,8 @@ It can also be centered!
 
 Hacking Magazine 
 
+![Crepe](/assets/img/Hackin9-Social-Engineering-Attacks-cover.png){: .mx-auto.d-block :}
+
 <iframe src="/assets/pdfs/Hackin9 Social Engineering Attacks.pdf" width="100%" height="20%"></iframe>
 
 More to follow here. 
