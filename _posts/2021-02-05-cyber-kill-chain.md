@@ -8,6 +8,6 @@ share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
 
-Developed initially in the Aerospace industry by Lockheed-Martin it provides a robust baseline for a defensive strategy and posture to counter #Cyber Threats.
+Developed initially in the Aerospace industry by Lockheed-Martin it provides a robust baseline for a defensive strategy and posture to counter Cyber Threats.
 
 As the every changing threat landscape evolves (and matures) and the number and frequency of industry breaches escalate on a daily basis it still forms the foundational template of many organizations SecOps teams and their defensive strategy.
