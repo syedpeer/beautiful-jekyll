@@ -2,7 +2,7 @@
 layout: post
 title: Mobile Threat Landscape
 subtitle: Journey of a thousand miles
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/people-devices.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [books, infosec]
