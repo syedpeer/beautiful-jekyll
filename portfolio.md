@@ -30,11 +30,11 @@ Hacking Magazine
 
 Hacking Magazine 
 
-![Crepe](/assets/img/Hakin9-2021-insider-threats-cover.png){: .mx-auto.d-block :}
+[![Insider Threats](/assets/img/Hakin9-2021-insider-threats-cover.png)](/assets/pdfs/Hakin9 2021 insider threats.pdf) 
 
 Hacking Magazine 
 
-![Crepe](/assets/img/H9-Mobile-Threat-landscape-cover.png){: .mx-auto.d-block :}
+[![Mobile Threat Landscape](/assets/img/H9-Mobile-Threat-landscape-cover.png)](/assets/pdfs/H9-Mobile-Threat-landscape.pdf) 
 
 [comment]: # <iframe src="/assets/pdfs/Hackin9 Social Engineering Attacks.pdf" width="100%" height="20%"></iframe>
 
