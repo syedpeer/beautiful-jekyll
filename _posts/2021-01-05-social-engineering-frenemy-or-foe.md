@@ -5,7 +5,7 @@ subtitle: Journey of a thousand miles
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [books, test]
+tags: [books, infosec]
 ---
 
 Social Media continues to dominate our lives these days from the casual browsing on Facebook to the die-hard paid influencers on YouTube and Instagram and every platform out there. Social media posts, reposts, comments and likes are generated in the billions every day.
