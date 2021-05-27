@@ -2,8 +2,8 @@
 layout: post
 title: Insider Threats
 subtitle: Journey of a thousand miles
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+cover-img: /assets/img/insider-threats.jpg
+thumbnail-img: /assets/img/insider-threats-thumb.jpg
 share-img: /assets/img/path.jpg
 tags: [books, infosec]
 ---
