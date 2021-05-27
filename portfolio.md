@@ -22,7 +22,7 @@ I am interested in:
 
 Hacking Magazine 
 
-[![ASocial Engineering Attacks](/assets/img/Hackin9-Social-Engineering-Attacks-cover.png){: .mx-auto.d-block :}](/assets/pdfs/Hackin9 Social Engineering Attacks.pdf)
+[![ASocial Engineering Attacks](/assets/img/Hackin9-Social-Engineering-Attacks-cover.png)](/assets/pdfs/Hackin9 Social Engineering Attacks.pdf)
 
 Hacking Magazine 
 
