@@ -5,7 +5,7 @@ subtitle: Journey of a thousand miles
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [books, test]
+tags: [books, infosec]
 ---
 
 Enterprise IT mobile devices now more than ever before pose a new **"Mobile Threat Landscape"** that expose a surface footprint as diverse, colorful and unregulated as its user base. Mobile devices (smartphones and tablets) now represent the largest single enterprise computing device growth sector with established heavy duty manufacturers vying for customer loyalty and attention.
