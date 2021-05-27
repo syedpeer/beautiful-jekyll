@@ -22,20 +22,20 @@ I am interested in:
 
 Hacking Magazine 
 
-![Crepe](/assets/img/Hackin9-Social-Engineering-Attacks-cover.png){: .mx-auto.d-block :}
-[![Ancient Bristlecone Pine Forest, USA](/assets/img/Hackin9-Social-Engineering-Attacks-cover.png)](/assets/pdfs/Hackin9 Social Engineering Attacks.pdf)
+[comment]: # ![Crepe](/assets/img/Hackin9-Social-Engineering-Attacks-cover.png){: .mx-auto.d-block :}
+[![Ancient Bristlecone Pine Forest, USA](/assets/img/Hackin9-Social-Engineering-Attacks-cover.png)](/assets/pdfs/Hackin9 Social Engineering Attacks.pdf){: .mx-auto.d-block :}
 
 Hacking Magazine 
 
-![Crepe](/assets/img/Hackin9-Cyber-Kill-Chain-cover.png)
+![Crepe](/assets/img/Hackin9-Cyber-Kill-Chain-cover.png){: .mx-auto.d-block :}
 
 Hacking Magazine 
 
-![Crepe](/assets/img/Hakin9-2021-insider-threats-cover.png)
+![Crepe](/assets/img/Hakin9-2021-insider-threats-cover.png){: .mx-auto.d-block :}
 
 Hacking Magazine 
 
-![Crepe](/assets/img/H9-Mobile-Threat-landscape-cover.png)
+![Crepe](/assets/img/H9-Mobile-Threat-landscape-cover.png){: .mx-auto.d-block :}
 
 [comment]: # <iframe src="/assets/pdfs/Hackin9 Social Engineering Attacks.pdf" width="100%" height="20%"></iframe>
 
