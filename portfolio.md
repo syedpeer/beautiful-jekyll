@@ -30,7 +30,7 @@ The modern web and social platforms in particular provide the perfect window int
 
 We take for granted as standard fare things these days that have their origins in solutions within other industries (e.g. modern Project Management and Critical Path come to mind from Aerospace), so too was the case with the original “Kill Chain”. Lockheed Martin, a major defense contractor for the US Military (DOD), was instrumental in deriving the “Kill Chain” model based upon its military use case.
 
-[![Cyber Kill Chain](/assets/img/Hackin9-Cyber-Kill-Chain-cover.png)](/assets/pdfs/Hackin9 Cyber Kill Chain.pdf) 
+[![Cyber Kill Chain](/assets/img/Hackin9-Cyber-Kill-Chain-cover.png)](/assets/pdfs/Hackin9 Cyber Kill Chain.pdf){:target="_blank"}
 
 #### Hacking Magazine 
 
@@ -38,7 +38,7 @@ As enterprises continue to build on their defense in depth strategies layer-by-l
 
 This area presents a clear and present danger and lack of due diligence can be disastrous for any organization. As the #Cyber #Security #threat landscape evolves (and matures) and the number and frequency of breaches increases, every organization needs to continuously review insider policies and lock down on unnecessary privileges running wild within their staff/team members and consultants.
 
-[![Insider Threats](/assets/img/Hakin9-2021-insider-threats-cover.png)](/assets/pdfs/Hakin9 2021 insider threats.pdf) 
+[![Insider Threats](/assets/img/Hakin9-2021-insider-threats-cover.png)](/assets/pdfs/Hakin9 2021 insider threats.pdf){:target="_blank"}
 
 #### Hacking Magazine 
 
@@ -46,7 +46,7 @@ Enterprise IT #mobile devices now more than ever before pose a new "Mobile Threa
 
 Personal #Mobile devices (#BYOD) present some unique challenges for enterprise IT shops that need to be addressed with a balanced strategy that allows users their freedom yet keeps private corporate data ‘sandboxed’ and safe from prying eyes and enterprise applications secured to the finish line.
 
-[![Mobile Threat Landscape](/assets/img/H9-Mobile-Threat-landscape-cover.png)](/assets/pdfs/H9-Mobile-Threat-landscape.pdf)
+[![Mobile Threat Landscape](/assets/img/H9-Mobile-Threat-landscape-cover.png)](/assets/pdfs/H9-Mobile-Threat-landscape.pdf){:target="_blank"}
 
 [comment]: # <iframe src="/assets/pdfs/Hackin9 Social Engineering Attacks.pdf" width="100%" height="20%"></iframe>
 
