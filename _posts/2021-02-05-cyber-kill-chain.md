@@ -5,7 +5,7 @@ subtitle: Journey of a thousand miles
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [books, test]
+tags: [books, infosec]
 ---
 
 Developed initially in the Aerospace industry by Lockheed-Martin it provides a robust baseline for a defensive strategy and posture to counter Cyber Threats.
