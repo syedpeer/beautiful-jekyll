@@ -2,8 +2,8 @@
 layout: post
 title: Cyber Kill Chain
 subtitle: Journey of a thousand miles
-cover-img: /assets/img/Hakin9-cyber-kill-chain.jpg
-thumbnail-img: /assets/img/Hakin9-cyber-kill-chain-thumb.png
+cover-img: /assets/img/Hakin9-cyber-kill-chain.png
+thumbnail-img: /assets/img/Hakin9-cyber-kill-chain-thumb.jpg
 share-img: /assets/img/path.jpg
 tags: [books, infosec]
 ---
