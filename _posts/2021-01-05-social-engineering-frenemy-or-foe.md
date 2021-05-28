@@ -2,8 +2,8 @@
 layout: post
 title: Social Engineering Attacks
 subtitle: Journey of a thousand miles
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+cover-img: /assets/img/social-engineering-cover.jpg
+thumbnail-img: /assets/img/social-engineering-thumb.png
 share-img: /assets/img/path.jpg
 tags: [books, infosec]
 ---
