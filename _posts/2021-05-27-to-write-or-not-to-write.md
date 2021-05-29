@@ -1,7 +1,7 @@
 ---
 layout: post
 title: To Write or not to write
-subtitle: Journey of a thousand miles
+subtitle: Journey of a thousand words
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
