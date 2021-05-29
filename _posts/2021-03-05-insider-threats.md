@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Insider Threats
-subtitle: Journey of a thousand miles
+subtitle: Employees / Consultants
 cover-img: /assets/img/insider-threats.jpg
 thumbnail-img: /assets/img/insider-threats-thumb.jpg
 share-img: /assets/img/path.jpg
