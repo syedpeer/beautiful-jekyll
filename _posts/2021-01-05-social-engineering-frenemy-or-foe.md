@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Social Engineering Attacks
-subtitle: Journey of a thousand miles
+subtitle: Frenemy or Foe
 cover-img: /assets/img/social-engineering-cover.jpg
 thumbnail-img: /assets/img/social-engineering-thumb.jpg
 share-img: /assets/img/path.jpg
