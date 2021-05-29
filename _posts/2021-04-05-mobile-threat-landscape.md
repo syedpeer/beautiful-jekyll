@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mobile Threat Landscape
-subtitle: New Attack Surface
+subtitle: Modern day attack surface
 cover-img: /assets/img/people-devices.jpg
 thumbnail-img: /assets/img/people-devices-thumb.jpg
 share-img: /assets/img/path.jpg
