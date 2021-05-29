@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cyber Kill Chain
-subtitle: Journey of a thousand miles
+subtitle: A New Methodology
 cover-img: /assets/img/Hakin9-cyber-kill-chain.png
 thumbnail-img: /assets/img/Hakin9-cyber-kill-chain-thumb.jpg
 share-img: /assets/img/path.jpg
