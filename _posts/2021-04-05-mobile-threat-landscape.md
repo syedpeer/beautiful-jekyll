@@ -5,6 +5,7 @@ subtitle: Modern day attack surface
 cover-img: /assets/img/people-devices.jpg
 thumbnail-img: /assets/img/people-devices-thumb.jpg
 share-img: /assets/img/path.jpg
+permalink: /infosec/creation-of-a-landscape/
 tags: [books, infosec]
 ---
 
