@@ -4,7 +4,8 @@ title: Insider Threats
 subtitle: Employees and consultants
 cover-img: /assets/img/insider-threats.jpg
 thumbnail-img: /assets/img/insider-threats-thumb.jpg
-share-img: /assets/img/path.jpg
+share-img: /assets/img/insider-threats.jpg
+permalink: /infosec/insider-threats/
 tags: [books, infosec]
 ---
 
