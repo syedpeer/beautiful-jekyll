@@ -6,7 +6,7 @@ cover-img: /assets/img/Hakin9-cyber-kill-chain.png
 thumbnail-img: /assets/img/Hakin9-cyber-kill-chain-thumb.jpg
 share-img: /assets/img/Hakin9-cyber-kill-chain.png
 permalink: /infosec/cyber-kill-chain/
-tags: [books, infosec]
+tags: [infosec]
 ---
 
 Developed initially in the Aerospace industry by Lockheed-Martin it provides a robust baseline for a defensive strategy and posture to counter Cyber Threats.
