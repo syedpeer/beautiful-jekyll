@@ -4,7 +4,7 @@ title: To Write or not to write
 subtitle: Journey of a thousand words
 cover-img: /assets/img/mac-desktop.png
 thumbnail-img: /assets/img/mac-desktop-thumb.png
-share-img: /assets/img/path.jpg
+share-img: /assets/img/mac-desktop.png
 tags: [books, writing]
 ---
 
