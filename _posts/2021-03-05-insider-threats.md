@@ -15,3 +15,7 @@ This area presents a clear and present danger and lack of due diligence can be d
 
 [![Insider Threats](/assets/img/Hakin9-2021-insider-threats-cover.png)](/assets/pdfs/Hakin9 2021 insider threats.pdf){:target="_blank"}
 
+Preview
+
+<object data="{{ site.url }}{{ site.baseurl }}/assets/pdfs/Hakin9 2021 insider threats.pdf" width="1000" height="1000" type="application/pdf"></object>
+
