@@ -4,7 +4,8 @@ title: Cyber Kill Chain
 subtitle: A new methodology
 cover-img: /assets/img/Hakin9-cyber-kill-chain.png
 thumbnail-img: /assets/img/Hakin9-cyber-kill-chain-thumb.jpg
-share-img: /assets/img/path.jpg
+share-img: /assets/img/Hakin9-cyber-kill-chain.png
+permalink: /infosec/cyber-kill-chain/
 tags: [books, infosec]
 ---
 
