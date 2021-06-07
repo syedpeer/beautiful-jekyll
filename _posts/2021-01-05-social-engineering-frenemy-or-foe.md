@@ -4,7 +4,8 @@ title: Social Engineering Attacks
 subtitle: Frenemy or Foe
 cover-img: /assets/img/social-engineering-cover.jpg
 thumbnail-img: /assets/img/social-engineering-thumb.jpg
-share-img: /assets/img/path.jpg
+share-img: assets/img/social-engineering-cover.jpg
+permalink: /infosec/social-engineering-attacks/
 tags: [books, infosec]
 ---
 
