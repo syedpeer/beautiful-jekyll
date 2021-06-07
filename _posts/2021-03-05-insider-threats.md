@@ -6,7 +6,7 @@ cover-img: /assets/img/insider-threats.jpg
 thumbnail-img: /assets/img/insider-threats-thumb.jpg
 share-img: /assets/img/insider-threats.jpg
 permalink: /infosec/insider-threats/
-tags: [books, infosec]
+tags: [infosec]
 ---
 
 As enterprises continue to build on their defense in depth strategies layer-by-layer (ever so slowly though) possibly the most important vector of attack still remains those attacks that originate from within the organization itself - by employees or external consultants.
