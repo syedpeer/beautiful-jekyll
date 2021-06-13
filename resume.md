@@ -25,9 +25,9 @@ Seasoned Engineering Manager experienced in Digital/Cloud implementation, *Busin
 - AWS GCP AZURE Oracle DB2 SQL Postgres 
 - Tech: Cisco, EMC, AIX, Fortinet, Palo Alto
 
-##Experience
+## Experience
 
-###Sr. Engineering Manager
+### Sr. Engineering Manager
 - Consulting - client projects
 
 ### Dir. Engineering / IT Manager
@@ -90,10 +90,10 @@ Built out additional team for Quality Assurance to address gaps in condforming t
 
 ### Education
 
-| Qulification | Insitution | 
+| Qualification | Insitution | 
 | :------ |:--- | 
 | B.E. Electrical & Electronic Eng.  | University of Wales. Cardiff. U.K |
-| SCRUM / AGILE Training | Jeff Sutherland on-site workshop. Los Angeles USA |
+| **SCRUM / AGILE** Training | Jeff Sutherland on-site workshop. Los Angeles USA |
 
 <hr/>
 
@@ -103,7 +103,12 @@ Built out additional team for Quality Assurance to address gaps in condforming t
 | :------ |:--- | 
 | Gulf Info. Security Expo & Conference (GISEC)  | 4-5 June 2013 & 9-10 June, 2014, Dubai |
 | Industrial Controls Systems Security | 13 Jan. 2015 – ictQatar / Doha |
+| IDC CIO Roundtable | 4 March 2015 - Doha |
+| IDC CIO Summit 2016 Middle East, Abu Dhabi | 17-18 Jan.16. Speaker: Converged Infrastructure |
+| IDC IT Security 2016, Doha | 12 April 2016. Speaker: Panel Discussion |
+| IRM & ISACA Seminar, Carnegie Mellon, Doha | 1 June.2016. Speaker: Panel Discussion |
+| Operational Technology Security Forum, Doha | 21-23 March.2017. Speaker & Panel: InfoSec |
 
 ### My story
 
-More to follow here. In the mean time you can checkout [my LinkedIn](https://www.linkedin.com/in/syedpeer) profile for the answers to **all** your questions.
+You can checkout [my LinkedIn](https://www.linkedin.com/in/syedpeer) profile for the answers to **all** your questions.
