@@ -27,15 +27,14 @@ Seasoned Engineering Manager experienced in Digital/Cloud implementation, *Busin
 
 ## Experience
 
-### Sr. Engineering Manager
+### Confidential
+### Software Engineering Manager
 - Consulting - client projects
 
-### Dir. Engineering / IT Manager
-#### Qatar Fertiliser Company (QAFCO) [6.6 yrs] Jan/2014 - Aug/2020
+### Qatar Fertiliser Company (QAFCO)
+#### Dir. Engineering / IT Manager  &bull; Jan/2014 - Aug/2020
 
 Promoted internally to **IT Department Manager** level to lead both the Infrastructure & Engineering and Applications Development teams. Built out additional team for Cyber Security. 
-
-#### Responsibilties
 
 - Manage Application Development, Infrastructure and Cyber Security.
 - Drive best practices/adherence to SDLC for requirements, development, QA and Production Release/Support
@@ -62,8 +61,6 @@ Hired directly from the US as **Head of Information Technology** (on fixed term 
 
 Built out additional team for Quality Assurance to address gaps in condforming to the standard SDLC process. 
 
-#### Responsibilties
-
 - Implemented Management Dashboards ver.1.0 with Oracle BI Publisher and AIX/DB2 and Oracle backend
 - Implemented Oracle Imaging DB (CIMAGE) with JD Edwards ERP using RIAF Oracle extensions (.Net)
 - Implemented Upgrade Project for ERP Tech Upgrade (JD Edwards v8.11 to v9.1).
@@ -72,8 +69,8 @@ Built out additional team for Quality Assurance to address gaps in condforming t
 - Oversee Budgets for infrastructure, services and development teams. Chair for C-Level IT Steering Committee
 - Direct corporate network core upgrade path and strengthen Internet security by annual pen test.
 
-### Technical Delivery Manager
-#### Bank of America [1 yr] Oct/2010 – Oct/2011
+### Bank of America
+#### Technical Delivery Manager &bull; Oct/2010 – Oct/2011
 
 - Administer multiple internal and cross-functional resources - on-site / offshore / globally
 - Experienced in Banks’ native Six Sigma Methodology (DMAIC) and processes.
