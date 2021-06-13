@@ -4,7 +4,7 @@ title: Resume
 subtitle: Curriculum Vitae (CV)
 ---
 
-#Syed Peer
+# Syed Peer
 
 [LinkedIn](https://www.linkedin.com/in/syedpeer) 
 
