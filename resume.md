@@ -31,8 +31,7 @@ Seasoned Engineering Manager experienced in Digital/Cloud implementation, *Busin
 - Consulting - client projects
 
 ### Dir. Engineering / IT Manager
-#### Qatar Fertiliser Company (QAFCO) 
-##### [6.6 yrs] Jan/2014 - Aug/2020
+#### Qatar Fertiliser Company (QAFCO) [6.6 yrs] Jan/2014 - Aug/2020
 
 Promoted internally to **IT Department Manager** level to lead both the Infrastructure & Engineering and Applications Development teams. Built out additional team for Cyber Security. 
 
@@ -57,8 +56,7 @@ Promoted internally to **IT Department Manager** level to lead both the Infrastr
 - Implemented converged infrastructure strategy with technology components (Nutanix/VMWare/VxRail)
 
 ### Head of Information Technology 
-#### Qatar Fertiliser Company (QAFCO) 
-##### [2.2 yrs] Oct/2011 - Dec/2013
+#### Qatar Fertiliser Company (QAFCO) [2.2 yrs] Oct/2011 - Dec/2013
 
 Hired directly from the US as **Head of Information Technology** (on fixed term contract basis) to work abroad in the the state of Qatar in the Arabian Gulf with a major Oil and Gas downstream operator at QAFCO. 
 
@@ -75,8 +73,7 @@ Built out additional team for Quality Assurance to address gaps in condforming t
 - Direct corporate network core upgrade path and strengthen Internet security by annual pen test.
 
 ### Technical Delivery Manager
-#### Bank of America 
-##### [1 yr] Oct/2010 – Oct/2011
+#### Bank of America [1 yr] Oct/2010 – Oct/2011
 
 - Administer multiple internal and cross-functional resources - on-site / offshore / globally
 - Experienced in Banks’ native Six Sigma Methodology (DMAIC) and processes.
