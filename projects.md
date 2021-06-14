@@ -4,18 +4,48 @@ title: Projects
 subtitle: Busy building stuff 
 ---
 
-This is a collection of some personal projects I’ve worked on that are easily viewable online. Anything that is not browser-friendly will not make the cut :(
 
-I’m also available for consulting, so feel free to contact me if you’d like to work together.
+### ERP Techincal Upgrade (JD Edwards)
 
-I am interested in:  
+<p align="justify">
+Implemented the technical upgrade from JDE 8.11 to JDE Enterprise One ver.9.1. Originally estimated to be a 10 month long duration project, the project was successfully completed and delivered within 8 months - ahead of schedule by 2 months (and within budget).
+</p>
 
-- Creative or Ghost blog writing
+### Disaster Recovery Site
+
+<p align="justify">
+At the completetion of a 3-year long project managed to establsh a remote fail over site for disaster recovery compliance. Site was hosted by the local Telco (Ooredoo) at their Ooredoo Data Center 4 (ODC4) location in the desert at Mukainis. Two Disaster Recovery Drills performed per year in collaboration with the different business area users from departments: Administration, Finance, Maintenance, Production, HR etc.
+</p>
+
+### BI Management Dashboard
+
+<p align="justify">
+Working from scratch with Oracle BI Publisher toolset and native build in-house Microsoft .NET APIs no both Production Systems and ERP, successfully developed and delivered the first BI Management Dashboard Colsole to top level executives (Chief officers, Deaprtments Managers and Head of Sections) a one-stop shop for their decision making needs. Build over a transparent overnight "cube" building process the BI Dashboard provided accurate End of Day (EOD) KPI to relevent managers. 
+</p>
+
+### ISO 27001 Certification
+
+<p align="justify">
+Established 3 Phase project (Assessment, Mitigation and Certification) process to achieve necessary compliance. Assessment Phase (I) completed successfully in collaboration with local provider (Protiviti) to identify all gaps and documents needs. The Mitigation Phase (II) begun in earnest with development of all necesssary Policy and Procedure changes and additional new artifacts required. 
+</p>
+
+### Qatar Cyber Security Framework
+
+<p align="justify">
+Worked with Ministry of Interior (MOI) and Ministry of Transportation and Telecommunications (MOTC/QCERT) to be in compliance of the recently drafted framework in prepartion of the <b>FIFA 2022 World Cup</b> event to be staged in Qatar during the Fall of 2022. The framwork is built ovet a slew of international security and auditing standards including (but not limited to): ISO 27001, ISA99, NIST, COBIT. etc. Over 300 line items identified at the get go, but on account of QAFCO work on ISO 27001, over 60% we already meeting the necessatu requirements.
+</p>
+
+### Interests
+
 - Technical writing for IT/OT/Cyber Security
-- Email Design and development
+- Creative technical blog writing
 - Mobile Progressive Web App (PWA) development
 - Algo Trading Strategy Development (FinTech)
+
 
 ### My story
 
 More to follow here. In the mean time you can checkout [my LinkedIn](https://www.linkedin.com/in/syedpeer) profile for the answers to **all** your questions.
+
+<p align="justify">
+</p>
