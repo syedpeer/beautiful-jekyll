@@ -10,6 +10,8 @@ subtitle: Curriculum Vitae (CV)
 
 <hr/>
 
+## Career Profile
+
 Seasoned Engineering Manager experienced in Digital/Cloud implementation, *Business Intelligence/Analytics*, Change Management, ERP (JD Edwards) and Cyber Security. Worked in Fortune 400 company verticals including Social Media (MySpace.com), Finance (Bank of America), Payments (First Data), and Manufacturing (Oil and Gas downstream - QAFCO). Experienced at building performant teams with diverse skill sets. Adept at working with C- Suite (CXO), business owners, vendors and engineering/development teams for effective digital transformative solutions and business re-engineering and change management. Employed AGILE / SCRUM Methodologies where appropriate. Identified business improvement change areas for tangible, measurable ROI for organizations. Strong development, infrastructure and business owner/process experience. Excellent written, verbal, problem-solving skills.
 
 <hr/>
@@ -30,12 +32,12 @@ Seasoned Engineering Manager experienced in Digital/Cloud implementation, *Busin
 <hr/>
 ## Experience
 
-### Confidential
 ### Software Engineering Manager
+#### Confidential
 - Consulting - client projects
 
-### Qatar Fertiliser Company (QAFCO)
-#### Dir. Engineering / IT Manager  &bull; Jan/2014 - Aug/2020
+###  Dir. Engineering / IT Manager 
+#### Qatar Fertiliser Company (QAFCO) &bull; Jan/2014 - Aug/2020
 
 Promoted internally to **IT Department Manager** level to lead both the Infrastructure & Engineering and Applications Development teams. Built out additional team for Cyber Security. 
 
@@ -58,7 +60,7 @@ Promoted internally to **IT Department Manager** level to lead both the Infrastr
 - Implemented converged infrastructure strategy with technology components (Nutanix/VMWare/VxRail)
 
 ### Head of Information Technology 
-#### Qatar Fertiliser Company (QAFCO) [2.2 yrs] Oct/2011 - Dec/2013
+#### Qatar Fertiliser Company (QAFCO) &bull; Oct/2011 - Dec/2013
 
 Hired directly from the US as **Head of Information Technology** (on fixed term contract basis) to work abroad in the the state of Qatar in the Arabian Gulf with a major Oil and Gas downstream operator at QAFCO. 
 
@@ -98,13 +100,14 @@ Built out additional team for Quality Assurance to address gaps in condforming t
 
 | Event | Dates | 
 | :------ |:--- | 
-| Gulf Info. Security Expo & Conference (GISEC)  | 4-5 June 2013 & 9-10 June, 2014, Dubai |
-| Industrial Controls Systems Security | 13 Jan. 2015 – ictQatar / Doha |
-| IDC CIO Roundtable | 4 March 2015 - Doha |
+| Gulf Information Security Expo & Conference (GISEC)  | 4-5 June 2013 &bull; Dubai |
+| Gulf Information Security Expo & Conference (GISEC)  | 9-10 June, 2014 &bull; Dubai |
+| Industrial Controls Systems Security | 13 Jan. 2015 – ictQatar &bull; Doha |
+| IDC CIO Roundtable | 4 March 2015 &bull; Doha |
 | IDC CIO Summit 2016 Middle East, Abu Dhabi | 17-18 Jan.16. Speaker: Converged Infrastructure |
-| IDC IT Security 2016, Doha | 12 April 2016. Speaker: Panel Discussion |
-| IRM & ISACA Seminar, Carnegie Mellon, Doha | 1 June.2016. Speaker: Panel Discussion |
-| Operational Technology Security Forum, Doha | 21-23 March.2017. Speaker & Panel: InfoSec |
+| IDC IT Security 2016  | 12 April 2016. **Speaker**: Panel Discussion &bull; Doha|
+| IRM & ISACA Seminar, Carnegie Mellon | 1 June.2016. **Speaker**: Panel Discussion &bull; Doha|
+| Operational Technology Security Forum | 21-23 March.2017. **Speaker** & Panel: InfoSec &bull; Doha|
 
 ### My story
 
