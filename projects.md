@@ -8,13 +8,19 @@ subtitle: Busy building stuff
 ### ERP Techincal Upgrade (JD Edwards)
 
 <p align="justify">
-Implemented the technical upgrade from JDE 8.11 to JDE Enterprise One ver.9.1. Originally estimated to be a 10 month long duration project, the project was successfully completed and delivered within 8 months - ahead of schedule by 2 months (and within budget).
+Implemented the technical upgrade from JDE 8.11 to JDE Enterprise One ver.9.1. Collaborating with an offshore ERP Services Provider, originally estimated project to be of 10 month duration. In reality the project was successfully completed and delivered within an 8 month window - ahead of the estimated schedule by 2 months (and within budget). An On-shore off-shore model followed for delivery with 2 ERP techno-functional teams and 4 vendor sourced JDE analysts. A separate offshore team of 4 persons assisted with both core and additonal development.  
+</p>
+
+### ERP & Imaging (CIMAGE) Database Integration
+
+<p align="justify">
+Implemented an in-house solution for the integration of the native CIMAGE technical documentaion / imaging database with the JDE Maintenance Work Order System screens. Technical solution uses Oracle RIAF (Related Information Application Framework) to embed native .Net web page within an ERP split window to provide all part images, specs., reports for all items being worked on as part of the Work Order. Solution provided a fluid single stop solution to bring the two system together without requiring users to maintain two separate system sessions and logins etc.    
 </p>
 
 ### Disaster Recovery Site
 
 <p align="justify">
-At the completetion of a 3-year long project managed to establsh a remote fail over site for disaster recovery compliance. Site was hosted by the local Telco (Ooredoo) at their Ooredoo Data Center 4 (ODC4) location in the desert at Mukainis. Two Disaster Recovery Drills performed per year in collaboration with the different business area users from departments: Administration, Finance, Maintenance, Production, HR etc.
+At the completion of a 3-year long project managed to establsh a remote fail over site for disaster recovery compliance. Site was hosted by the local Telco (Ooredoo) at their Ooredoo Data Center 4 (ODC4) location in the desert at Mukainis. Two Disaster Recovery Drills performed per year in collaboration with the different business area users from departments: Administration, Finance, Maintenance, Production, HR etc.
 </p>
 
 ### BI Management Dashboard
@@ -32,7 +38,7 @@ Established 3 Phase project (Assessment, Mitigation and Certification) process t
 ### Qatar Cyber Security Framework
 
 <p align="justify">
-Worked with Ministry of Interior (MOI) and Ministry of Transportation and Telecommunications (MOTC/QCERT) to be in compliance of the recently drafted framework in prepartion of the <b>FIFA 2022 World Cup</b> event to be staged in Qatar during the Fall of 2022. The framwork is built ovet a slew of international security and auditing standards including (but not limited to): ISO 27001, ISA99, NIST, COBIT. etc. Over 300 line items identified at the get go, but on account of QAFCO work on ISO 27001, over 60% we already meeting the necessatu requirements.
+Worked with Ministry of Interior (MOI) and Ministry of Transportation and Telecommunications (MOTC/QCERT) to be in compliance of the recently drafted framework in prepartion of the <b>FIFA 2022 World Cup</b> event to be staged in Qatar during the Fall of 2022. The framwork is built ovet a slew of international security and auditing standards including (but not limited to): ISO 27001, ISA99, NIST, COBIT. etc. Over 300 line items identified at the get go, but on account of QAFCO work on ISO 27001, for over 60% QAFCO was already meeting the necessary requirement.
 </p>
 
 ### Interests
