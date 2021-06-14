@@ -15,10 +15,10 @@ author: Syed Peer
 
 navbar-links:
   About Me: "aboutme"
-  Projects: "projects"
+  Resume: "resume"
   Resources:
     - Portfolio: "portfolio"
-    - Resume: "resume"
+    - Project: "projects"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
 # Author's home: "https://deanattali.com"

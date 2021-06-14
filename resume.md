@@ -12,6 +12,8 @@ subtitle: Curriculum Vitae (CV)
 
 Seasoned Engineering Manager experienced in Digital/Cloud implementation, *Business Intelligence/Analytics*, Change Management, ERP (JD Edwards) and Cyber Security. Worked in Fortune 400 company verticals including Social Media (MySpace.com), Finance (Bank of America), Payments (First Data), and Manufacturing (Oil and Gas downstream - QAFCO). Experienced at building performant teams with diverse skill sets. Adept at working with C- Suite (CXO), business owners, vendors and engineering/development teams for effective digital transformative solutions and business re-engineering and change management. Employed AGILE / SCRUM Methodologies where appropriate. Identified business improvement change areas for tangible, measurable ROI for organizations. Strong development, infrastructure and business owner/process experience. Excellent written, verbal, problem-solving skills.
 
+<hr/>
+
 ## Skills
 
 - Hire/Build Development, Analysis & QA teams
@@ -25,6 +27,7 @@ Seasoned Engineering Manager experienced in Digital/Cloud implementation, *Busin
 - AWS GCP AZURE Oracle DB2 SQL Postgres 
 - Tech: Cisco, EMC, AIX, Fortinet, Palo Alto
 
+<hr/>
 ## Experience
 
 ### Confidential
