@@ -3,14 +3,6 @@ layout: page
 title: Resume
 subtitle: Curriculum Vitae (CV)
 ---
-<style type="text/css">
-  hr {
-     width: 100%; 
-     height: 10px; 
-     border: none; 
-     background: darkgray;
-  }
-</style>
 
 # Syed Peer
 ###### Director Engineering / Program Manager
@@ -119,7 +111,7 @@ Built out additional team for Quality Assurance to address gaps in condforming t
 <hr/>
 
 ### Articles 
-b
+
 | Title | Dates | 
 | :------ |:--- | 
 | Mobile Threat Landscape | [https://www.syedpeer.net/infosec/mobile-threat-landscape/](https://www.syedpeer.net/infosec/mobile-threat-landscape/) |
