@@ -109,6 +109,8 @@ Built out additional team for Quality Assurance to address gaps in condforming t
 | **SCRUM / AGILE** Training | Jeff Sutherland on-site workshop. Los Angeles USA |
 
 <hr style="width: 100%; height: 10px; border: none; background: red;" />
+<hr>
+<hr>
 
 ### Articles 
 
