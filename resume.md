@@ -3,6 +3,14 @@ layout: page
 title: Resume
 subtitle: Curriculum Vitae (CV)
 ---
+<style type="text/css">
+  hr {
+     width: 100%; 
+     height: 10px; 
+     border: none; 
+     background: darkgray;
+  }
+</style>
 
 # Syed Peer
 ###### Director Engineering / Program Manager
@@ -108,10 +116,10 @@ Built out additional team for Quality Assurance to address gaps in condforming t
 | B.E. Electrical & Electronic Eng.  | University of Wales. Cardiff. U.K |
 | **SCRUM / AGILE** Training | Jeff Sutherland on-site workshop. Los Angeles USA |
 
-<hr style="width: 100%; height: 10px; border: none; background: darkgray;" />
+<hr/>
 
 ### Articles 
-
+b
 | Title | Dates | 
 | :------ |:--- | 
 | Mobile Threat Landscape | [https://www.syedpeer.net/infosec/mobile-threat-landscape/](https://www.syedpeer.net/infosec/mobile-threat-landscape/) |

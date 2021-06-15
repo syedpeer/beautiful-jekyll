@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About me
+style: mystyle_index.html
 subtitle: What you need to know
 ---
 
@@ -14,6 +15,8 @@ My name is Syed Peer.
 - Knowledgable in Jamstack frameworks and technologies
 - Establish and enforce SDLC and best practice for development
 - Curiuos about all things tech !!
+
+<hr/>
 
 What else do you need to know?
 
