@@ -5,7 +5,8 @@ subtitle: Busy building stuff
 ---
 
 
-### ERP Techincal Upgrade (JD Edwards)
+### ERP Technical Upgrade (JD Edwards)
+###### QAFCO &bull; Qatar
 
 <p align="justify">
 Implemented the technical upgrade from JDE 8.11 to JDE Enterprise One ver.9.1. Collaborating with an offshore ERP Services Provider, originally estimated project to be of 10 month duration. In reality the project was successfully completed and delivered within an 8 month window - ahead of the estimated schedule by 2 months (and within budget). An On-shore off-shore model followed for delivery with 2 ERP techno-functional teams and 4 vendor sourced JDE analysts. A separate offshore team of 4 persons assisted with both core and additonal development.  
@@ -59,14 +60,6 @@ New application for improved Collateral document proessing, transfers, re-convey
 <p align="justify">
 New application for improved Collateral Document Audit for tehe in-house Vault depository. Aimed to reduce government agency penalties of up to $90,000 when securitized loan transfer fails to pass Audit checks in place at Fannie Mae and Gennie Mae. Built from the ground up using Java J2EE and integrated document imaging repository. 
 </p>
-
-### Interests
-
-- Technical writing for IT/OT/Cyber Security
-- Creative technical blog writing
-- Mobile Progressive Web App (PWA) development
-- Algo Trading Strategy Development (FinTech)
-
 
 ### My story
 

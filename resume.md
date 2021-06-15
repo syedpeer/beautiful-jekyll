@@ -134,6 +134,15 @@ Built out additional team for Quality Assurance to address gaps in condforming t
 | IRM & ISACA Seminar, Carnegie Mellon | 1 June.2016. **Speaker**: Panel Discussion &bull; Doha|
 | Operational Technology Security Forum | 21-23 March.2017. **Speaker** & Panel: InfoSec &bull; **Doha**|
 
+### Interests
+
+- Writing technical articles for Cyber Security
+- Creative technical blogging for IT/OT
+- Mobile App development
+- Algo Trading Strategy Development (FinTech)
+- Traveling
+- Guitar
+  
 ### My story
 
 You can checkout my [LinkedIn](https://www.linkedin.com/in/syedpeer) profile for the answers to **all** your questions.
