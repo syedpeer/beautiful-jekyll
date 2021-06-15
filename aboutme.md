@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About me
-style: mystyle_index.html
 subtitle: What you need to know
 ---
 
