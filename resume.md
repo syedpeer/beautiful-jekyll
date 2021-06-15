@@ -110,6 +110,17 @@ Built out additional team for Quality Assurance to address gaps in condforming t
 
 <hr/>
 
+### Articles 
+
+| Title | Dates | 
+| :------ |:--- | 
+| Mobile Threat Landscape | https://www.syedpeer.net/infosec/mobile-threat-landscape/ |
+| Insider Threats | https://www.syedpeer.net/infosec/insider-threats/ |
+| Cyber Kill Chain | https://www.syedpeer.net/infosec/cyber-kill-chain/ |
+| Social Engineering Attacks | https://www.syedpeer.net/infosec/social-engineering-attacks/ |
+
+<hr/>
+
 ### Conferences & Speaking Engagements
 
 | Event | Dates | 
