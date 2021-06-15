@@ -1,6 +1,6 @@
 ---
 layout: page
-style: mystyle
+css: mystyle
 title: About me
 subtitle: What you need to know
 ---
