@@ -5,8 +5,7 @@ subtitle: Curriculum Vitae (CV)
 ---
 
 # Syed Peer
-
-[LinkedIn](https://www.linkedin.com/in/syedpeer) 
+###### Director Engineering / Program Manager
 
 <hr/>
 
@@ -18,26 +17,31 @@ Seasoned Engineering Manager experienced in Digital/Cloud implementation, *Busin
 
 ## Skills
 
-- Hire/Build Development, Analysis & QA teams
-- Establish SDLC & Change Management process
-- BI Analytics Dashboard integrated to ERP/JDE
-- Execute 5 yr ERP Roadmap Support/Upgrades
-- Support business for Cloud initiatives
-- Cyber Security IT/OT strategy & team hiring 
-- Platform: Wintel AIX Linux ERP PIMS-LIMS 
-- .Net Python PHP Java Vue Angular React
-- AWS GCP AZURE Oracle DB2 SQL Postgres 
+- Strong track record in **technlogy innovation** and leadership
+- Experience building, leading and managing **IT Department**
+- Develop and manage and IT departmental **budget and staffing**
+- Hire/Build **Development, Analysis & QA** teams
+- Hire/Build **Cyber Security** team
+- Establish **SDLC** & Change Management process
+- **BI Analytics Dashboard** integrated to ERP/JDE
+- Present and Execute **5 yr IT Roadmap** for CXOs
+- Support business for **Cloud** initiatives
+- Cyber Security **IT/OT strategy** & team hiring 
+- Platforms: Wintel AIX Linux ERP PIMS-LIMS 
+- Languages: .Net (C#) Python PHP Java VueJS Angular React
+- Cloud: AWS GCP AZURE 
+- Databases: Oracle DB2 SQL Postgres 
 - Tech: Cisco, EMC, AIX, Fortinet, Palo Alto
 
 <hr/>
 ## Experience
 
 ### Software Engineering Manager
-#### Confidential
+###### Confidential &bull; Nov/2020 - Present &bull; Los Angeles
 - Consulting - client projects
 
 ###  Dir. Engineering / IT Manager 
-#### Qatar Fertiliser Company (QAFCO) &bull; Jan/2014 - Aug/2020
+###### Qatar Fertiliser Company (QAFCO) &bull; Jan/2014 - Aug/2020 &bull; Qatar
 
 Promoted internally to **IT Department Manager** level to lead both the Infrastructure & Engineering and Applications Development teams. Built out additional team for Cyber Security. 
 
@@ -60,7 +64,7 @@ Promoted internally to **IT Department Manager** level to lead both the Infrastr
 - Implemented converged infrastructure strategy with technology components (Nutanix/VMWare/VxRail)
 
 ### Head of Information Technology 
-#### Qatar Fertiliser Company (QAFCO) &bull; Oct/2011 - Dec/2013
+###### Qatar Fertiliser Company (QAFCO) &bull; Oct/2011 - Dec/2013 &bull; Qatar
 
 Hired directly from the US as **Head of Information Technology** (on fixed term contract basis) to work abroad in the the state of Qatar in the Arabian Gulf with a major Oil and Gas downstream operator at QAFCO. 
 
@@ -74,8 +78,8 @@ Built out additional team for Quality Assurance to address gaps in condforming t
 - Oversee Budgets for infrastructure, services and development teams. Chair for C-Level IT Steering Committee
 - Direct corporate network core upgrade path and strengthen Internet security by annual pen test.
 
-### Bank of America
-#### Technical Delivery Manager &bull; Oct/2010 – Oct/2011
+### Technical Delivery Manager 
+###### Bank of America &bull; Oct/2010 – Oct/2011 &bull; Simi Valley
 
 - Administer multiple internal and cross-functional resources - on-site / offshore / globally
 - Experienced in Banks’ native Six Sigma Methodology (DMAIC) and processes.
@@ -84,6 +88,16 @@ Built out additional team for Quality Assurance to address gaps in condforming t
 - Trained in 3 key areas, Bank regulatory, compliance and credit risk analysis.
 - Business Coordination and technical liaison for project funding and initiatives
 - Familiar with Product Securitization, Fixed Income, Secondary, Capital Markets & derivatives, A-Paper
+
+### Software Development Manager
+###### MySpace &bull; Jun/2007 – August/2008 &bull; Beverley Hills
+
+- Implemented migrations of major vertical (photos) from legacy Cold Fusion to .NET.
+- MySpace Architecture Delivery team member for architecture, database, and systems/app scalability
+- Responsible for multiple verticals Web Platform Teams: Friends, Photos, Profiles verticals and SEO.
+- Oversaw AGILE/SCRUM-based project team of Product Owners, developers, DBAs, QA and tech. writers
+- Mentoring and resource development for SCRUM teams with interviewing and hiring for build out.
+- Emphasized SCRUM team organization and structure. Established clearly defined project scope and targets
 
 <hr/>
 
@@ -100,15 +114,15 @@ Built out additional team for Quality Assurance to address gaps in condforming t
 
 | Event | Dates | 
 | :------ |:--- | 
-| Gulf Information Security Expo & Conference (GISEC)  | 4-5 June 2013 &bull; Dubai |
-| Gulf Information Security Expo & Conference (GISEC)  | 9-10 June, 2014 &bull; Dubai |
-| Industrial Controls Systems Security | 13 Jan. 2015 – ictQatar &bull; Doha |
-| IDC CIO Roundtable | 4 March 2015 &bull; Doha |
-| IDC CIO Summit 2016 Middle East, Abu Dhabi | 17-18 Jan.16. Speaker: Converged Infrastructure |
+| Gulf Information Security Expo & Conference (GISEC)  | 4-5 June 2013 &bull; **Dubai** |
+| Gulf Information Security Expo & Conference (GISEC)  | 9-10 June, 2014 &bull; **Dubai** |
+| Industrial Controls Systems Security | 13 Jan. 2015 – ictQatar &bull; **Doha** |
+| IDC CIO Roundtable | 4 March 2015 &bull; **Doha** |
+| IDC CIO Summit 2016 Middle East | 17-18 Jan.16. Speaker: Converged Infrastructure &bull; **Abu Dhabi** |
 | IDC IT Security 2016  | 12 April 2016. **Speaker**: Panel Discussion &bull; Doha|
 | IRM & ISACA Seminar, Carnegie Mellon | 1 June.2016. **Speaker**: Panel Discussion &bull; Doha|
-| Operational Technology Security Forum | 21-23 March.2017. **Speaker** & Panel: InfoSec &bull; Doha|
+| Operational Technology Security Forum | 21-23 March.2017. **Speaker** & Panel: InfoSec &bull; **Doha**|
 
 ### My story
 
-You can checkout [my LinkedIn](https://www.linkedin.com/in/syedpeer) profile for the answers to **all** your questions.
+You can checkout my [LinkedIn](https://www.linkedin.com/in/syedpeer) profile for the answers to **all** your questions.
