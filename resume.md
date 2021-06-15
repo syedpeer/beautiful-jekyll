@@ -108,7 +108,7 @@ Built out additional team for Quality Assurance to address gaps in condforming t
 | B.E. Electrical & Electronic Eng.  | University of Wales. Cardiff. U.K |
 | **SCRUM / AGILE** Training | Jeff Sutherland on-site workshop. Los Angeles USA |
 
-<hr/>
+<hr style="width: 100%; height: 10px; border: none; background: red;" />
 
 ### Articles 
 
