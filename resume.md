@@ -11,7 +11,9 @@ subtitle: Curriculum Vitae (CV)
 
 ## Career Profile
 
+<p align="justify">
 Seasoned Engineering Manager experienced in Digital/Cloud implementation, *Business Intelligence/Analytics*, Change Management, ERP (JD Edwards) and Cyber Security. Worked in Fortune 400 company verticals including Social Media (MySpace.com), Finance (Bank of America), Payments (First Data), and Manufacturing (Oil and Gas downstream - QAFCO). Experienced at building performant teams with diverse skill sets. Adept at working with C- Suite (CXO), business owners, vendors and engineering/development teams for effective digital transformative solutions and business re-engineering and change management. Employed AGILE / SCRUM Methodologies where appropriate. Identified business improvement change areas for tangible, measurable ROI for organizations. Strong development, infrastructure and business owner/process experience. Excellent written, verbal, problem-solving skills.
+</p>
 
 <hr/>
 
@@ -66,9 +68,11 @@ Promoted internally to **IT Department Manager** level to lead both the Infrastr
 ### Head of Information Technology 
 ###### Qatar Fertiliser Company (QAFCO) &bull; Oct/2011 - Dec/2013 &bull; Qatar
 
+<p align="justify">
 Hired directly from the US as **Head of Information Technology** (on fixed term contract basis) to work abroad in the the state of Qatar in the Arabian Gulf with a major Oil and Gas downstream operator at QAFCO. 
 
 Built out additional team for Quality Assurance to address gaps in condforming to the standard SDLC process. 
+</p>
 
 - Implemented Management Dashboards ver.1.0 with Oracle BI Publisher and AIX/DB2 and Oracle backend
 - Implemented Oracle Imaging DB (CIMAGE) with JD Edwards ERP using RIAF Oracle extensions (.Net)
@@ -112,7 +116,7 @@ Built out additional team for Quality Assurance to address gaps in condforming t
 
 ### Articles 
 
-| Title | Dates | 
+| Title | Links | 
 | :------ |:--- | 
 | Mobile Threat Landscape | [https://www.syedpeer.net/infosec/mobile-threat-landscape/](https://www.syedpeer.net/infosec/mobile-threat-landscape/) |
 | Insider Threats | [https://www.syedpeer.net/infosec/insider-threats/](https://www.syedpeer.net/infosec/insider-threats/) |
