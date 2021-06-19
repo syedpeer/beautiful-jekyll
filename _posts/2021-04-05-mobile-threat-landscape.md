@@ -16,3 +16,8 @@ Personal #Mobile devices (BYOD) present some unique challenges for enterprise IT
 
 [![Mobile Threat Landscape](/assets/img/H9-Mobile-Threat-landscape-cover.png)](/assets/pdfs/H9-Mobile-Threat-landscape.pdf){:target="_blank"}
 
+<div class="views">
+    <span class="views">
+        <img src="https://visitor-badge.glitch.me/badge?page_id={{ .site.permalink }}" alt="Views"/>
+    </span>
+</div>
