@@ -9,9 +9,19 @@ permalink: /infosec/mobile-threat-landscape/
 tags: [books, infosec]
 ---
 
-# Introduction
-
 The world as we know it today would have been a much different place had it not been for a revolutionary invention called the telephone. From its humble beginnings in 1876 (and often credited to Alexander Bell although there were others) as a means of delivering voice messages over the wire to the age of the smartphone delivering all manner of content wirelessly, this single device alone has had the power to transform the lives of billions of people around the world.
+
+<blockquote>
+
+<p align="center")>
+Oh, Oh, telephone line, give me some time<br/>
+I'm living in twilight<br/>
+Oh, oh, telephone line, give me some time<br/>
+I'm living in twilight”<br/>
+― Electric Light Orchestra 1976
+</p>
+
+</blockquote>
 
 The modern era smartphone is so much more than a simple voice messenger to its billions of users. With the power of the internet in its sails, an ever-expanding apps ecosystem and the widespread adoption of generational high-speed broadband networks the smartphone of the 21st century delivers all manner of content besides audio, such as video, music, or financial information all seamlessly over the airways.
 
@@ -97,7 +107,7 @@ With the advent of the COVID-19 pandemic there are few things to be cheerful abo
 
 ## References
 
-Wikipedia Definition: https://en.wikipedia.org/wiki/Bring_your_own_device
+Wikipedia Definition: [Link]([https://en.wikipedia.org/wiki/Bring_your_own_device) 
 
 ### Published version.
 
