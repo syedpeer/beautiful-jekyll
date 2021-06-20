@@ -13,7 +13,7 @@ The world as we know it today would have been a much different place had it not 
 
 <blockquote>
 
-<p align="center")>
+<p align="center">
 Oh, Oh, telephone line, give me some time<br/>
 I'm living in twilight<br/>
 Oh, oh, telephone line, give me some time<br/>
