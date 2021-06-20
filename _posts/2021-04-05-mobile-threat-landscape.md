@@ -46,8 +46,8 @@ Besides regular review and due diligence, these steps are only meaningful when b
 
 ## Modern MDM solutions are based on a dual component strategy:
 
-• A server component whereby the IT administrator can configure and send out policies via a management console inter- face to mobile devices.
-• A client component that receives messages and implements commands from the server component on the end-user mo- bile device.
+- A server component whereby the IT administrator can configure and send out policies via a management console inter- face to mobile devices.
+- A client component that receives messages and implements commands from the server component on the end-user mo- bile device.
 
 All available solutions typically center around perimeter/sandbox context with threat containerization as a principle. The MDM container is unique in that it typically uses cryptographic methods to secure corporate data on the mobile device and rigorously prevents attempts to move data across the data barrier from corporate into personal terrain on the device. The core objective remains to secure and process corporate data (such as emails, documents and applications) within the con- tainer itself. Both the level and manner of encryption will be a key factor depending on the solution adopted.
 
