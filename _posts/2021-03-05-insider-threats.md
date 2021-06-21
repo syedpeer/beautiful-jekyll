@@ -6,6 +6,7 @@ cover-img: /assets/img/insider-threats.jpg
 thumbnail-img: /assets/img/insider-threats-thumb.jpg
 share-img: /assets/img/insider-threats.jpg
 permalink: /infosec/insider-threats/
+othersite: http://example.com
 tags: [infosec]
 ---
 
@@ -100,6 +101,8 @@ A typical scenario would be an initial spear phishing attack targeting low level
 With the advent of the COVID-19 pandemic and the following stay at home orders from governments, enterprises both big and small have scrambled to affect the work from home regime across offices, states and international geographies. Therein alone, the insider threat landscape has changed considerably with new policies and due diligence practices being developed and adopted to address the myriad possibilities and exposure use cases. Implementing some or all of the mitigation recommendations presented here may help enterprises stay ahead of the curve and avoid the next data breach.
 
 ## References
+
+<a href="{{page.othersite}}">visit other site</a>
 
 1. Wikipedia Definition: [Insider Threat]([https://en.wikipedia.org/wiki/Insider_threat)
 2. CostIBM: [Data Breach]([https://www.ibm.com/security/data-breach)
