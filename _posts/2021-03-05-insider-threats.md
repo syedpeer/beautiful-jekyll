@@ -20,6 +20,7 @@ Now more than ever, project teams are rarely composed of tried and tested, local
 Considering spiraling project budgeting costs and existing organic skills shortages, it is now standard practice for modern businesses to engage with external providers of services and skilled staff to fill the gap. The modern-day consulting industry is built upon the premise of ever-increasing skills shortages faced by industry. Projects will now routinely onboard “consultants” as part of the larger team expansion necessary to achieve the desired business plan roll out in a timely and cost-effective manner.
 
 Whether on site or working remotely, once onboarded, these external/consultant teams often will have assigned to them the necessary system/applications rights and privileges necessary to complete their work effectively. Externally connected company employees setup in the work-from-home regime, or remote consultants, now add an additional layer of complexity to the security teams’ model of how to address the nature and response to the ever-increasing insider threat presented. Recent security surveys of businesses have shown that many now consider the insider threat as a rising concern internally that needs to be urgently addressed.
+</p>
 
 ## Insider Threat Definition
 
@@ -101,8 +102,8 @@ With the advent of the COVID-19 pandemic and the following stay at home orders f
 ## References
 
 1. Wikipedia Definition: <a href="{{page.refsite1}}">Insider Threat</a>
-2. CostIBM: <a href="{{page.refsite1}}">Data Breach</a>
-3. Bitglass: <a href="{{page.refsite1}}">Insider ThreatReport</a>
+2. CostIBM: <a href="{{page.refsite2}}">Data Breach</a>
+3. Bitglass: <a href="{{page.refsite3}}">Insider ThreatReport</a>
 
 ### Published version.
 
