@@ -51,6 +51,8 @@ A classic example of this in recent history would be the Edward Snowden case whe
 
 A typical example of this may be an IT Admin that decides to create or use an existing Application Service Account to perform a quick and dirty action instead of using his own named account that is required by standing policy and procedures for traceability. In the long term, the consequences of this action may be dire and untraceable as the Service Account provides no identifiable information through the logs on who may have executed the action.
 
+![Insider Threat Actors](/assets/img/xorlogics-threat-actors.png)
+
 **Accidental**: This is a case of a careless employee who unknowingly initiates an action that can have a detrimental impact on his/her end point initially (compromised desktop/laptop) and later across the organization.
 
 A typical use case would be a low-level employee who falls victim to a targeted spear phishing attack by opening an email attachment maliciously crafted by outsiders to infect the machine and then move laterally across the organization looking for more elevated privilege holders such as Admin accounts. One of the most famous recent cases with a major Social Media platform was the Twitter Crypto currency scam of July 15, 2020. Twitter confirmed that hackers had gained access to administrative tools that enabled them to alter user accounts themselves and post tweets directly. The hackers had used social engineering means to gain access to the tools via Twitter employees.
@@ -105,11 +107,9 @@ With the advent of the COVID-19 pandemic and the following stay at home orders f
 
 ## References
 
-<a href="{{page.othersite}}">visit other site</a>
-
 1. Wikipedia Definition: <a href="{{page.refsite1}}">Insider Threat</a>
-2. CostIBM: [Data Breach]([https://www.ibm.com/security/data-breach)
-3. Bitglass: [Insider Threat Report]([https://pages.bitglass.com/CD-FY20Q3-Bitglass2020InsiderThreatReport_LP.html)
+2. CostIBM: <a href="{{page.refsite1}}">Data Breach</a>
+3. Bitglass: <a href="{{page.refsite1}}">Insider ThreatReport</a>
 
 ### Published version.
 
