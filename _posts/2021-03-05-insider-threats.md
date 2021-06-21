@@ -7,6 +7,9 @@ thumbnail-img: /assets/img/insider-threats-thumb.jpg
 share-img: /assets/img/insider-threats.jpg
 permalink: /infosec/insider-threats/
 othersite: http://example.com
+refsite1: https://en.wikipedia.org/wiki/Insider_threat
+refsite2: https://en.wikipedia.org/wiki/Insider_threat
+refsite3: https://en.wikipedia.org/wiki/Insider_threat
 tags: [infosec]
 ---
 
@@ -104,7 +107,7 @@ With the advent of the COVID-19 pandemic and the following stay at home orders f
 
 <a href="{{page.othersite}}">visit other site</a>
 
-1. Wikipedia Definition: [Insider Threat]([https://en.wikipedia.org/wiki/Insider_threat)
+1. Wikipedia Definition: <a href="{{page.refsite1}}">Insider Threat</a>
 2. CostIBM: [Data Breach]([https://www.ibm.com/security/data-breach)
 3. Bitglass: [Insider Threat Report]([https://pages.bitglass.com/CD-FY20Q3-Bitglass2020InsiderThreatReport_LP.html)
 
