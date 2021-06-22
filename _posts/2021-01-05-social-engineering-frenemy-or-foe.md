@@ -14,9 +14,12 @@ As we hurtle towards mass internet adoption across the globe at ever acceleratin
 
 From shopping to travel, to work from home during the pandemic, the new "us" is a whole new breed of digital citizen than the days of our parents. The seductive promise of the new web is that everything is so easily within our reach, from our groceries to movie tickets to flight bookings to birthdays and anniversaries. In this rush to get on the bus and start making those all-important connections with family and friends and other netizens, a slew of social media platforms has wet our appetite for connecting, recording, approving, celebrating, aggrandizing and sharing every small detail of our otherwise mundane lives. 
 
+![Social Engineering](/assets/img/social-eng-masthead.png) 
+
 And there's the rub.
 
 ## Social Engineering Defined
+
 As defined by Wikipedia, "In the context of information security, social engineering is the psychological manipulation of people into performing actions or divulging confidential information." Social Engineering has become the Swiss army knife of malware builders and the architects of corporate breaches online.
 
 The modern web and social platforms in particular provide the perfect window into our lives, but are only effective so far as we allow them to be. A fun weekend exercise for young and old alike is just to type your name into the Google Search field and watch all the references that come back to you in an instant. It can be an eye-opening experience that so much information about ourselves (both the good and the bad) is actually out there for the general public to see.
