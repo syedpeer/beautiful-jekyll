@@ -6,7 +6,7 @@ cover-img: /assets/img/Hakin9-cyber-kill-chain.png
 thumbnail-img: /assets/img/Hakin9-cyber-kill-chain-thumb.jpg
 share-img: /assets/img/Hakin9-cyber-kill-chain.png
 permalink: /infosec/cyber-kill-chain/
-refsite1: www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html
+refsite1: https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html
 tags: [infosec]
 ---
 
@@ -82,6 +82,7 @@ While not a single tool or application in itself the Cyber Kill Chain still prov
 ## References.
 
 1. Lockheed: <a href="{{page.refsite1}}">Cyber Kill Chain</a>
+2. Wikipedia Definition: <a href="{{page.refsite1}}">Insider Threat</a>
 
 ### Published version.
 
