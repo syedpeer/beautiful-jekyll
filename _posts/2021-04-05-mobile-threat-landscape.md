@@ -93,7 +93,7 @@ Here are a few best practices and mitigation strategies to be considered:
 
 **Inform Contacts**: Let your contacts know your current situation as the first order of the day for hackers will be to rifle through your contact list and approach them next for further malware expansion. Ask them to be suspicious of any strange text messages or requests from your mobile number or suspicious links that may lead to further malware infection.
 
-**Delete Suspicious Apps**: The first step is always to identify the “critical” data that may be the target of the insider threat. This is no small endeavor and will possibly require the formation of a dedicated team with cooperation between IT, Human Resources, Finance and Audit to identify vulnerable data and how best to secure and limit its exposure on the mobile device to the applications installed.
+**Delete Suspicious Apps**: The first step is always to identify the “critical” data that may be the target of the insider threat. This is no small endeavor and will possibly require the formation of a dedicated team with cooperation between IT, Human Resources, Finance and Audit to identify vulnerable data and how best to secure and limit its exposure on the mobile device to the applications installed. 
 
 **Install and Run Anti-Malware Software**: The next logical step after the Data Classification stage completes is the im- plementation of a best of breed DLP tool. This is an essential accessory in the struggle to prevent unlawful exfiltration of data from any organization.
 
