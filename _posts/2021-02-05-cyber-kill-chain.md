@@ -82,7 +82,6 @@ While not a single tool or application in itself the Cyber Kill Chain still prov
 ## References.
 
 1. Lockheed: <a href="{{page.refsite1}}">Cyber Kill Chain</a>
-2. Wikipedia Definition: <a href="{{page.refsite1}}">Insider Threat</a>
 
 ### Published version.
 
