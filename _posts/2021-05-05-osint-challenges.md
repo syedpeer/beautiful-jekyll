@@ -2,8 +2,8 @@
 layout: post
 title: OSINT Challenges
 subtitle: OSINT Challenges
-cover-img: /assets/img/people-devices.jpg
-thumbnail-img: /assets/img/people-devices-thumb.jpg
+cover-img: /assets/img/H9-socmint-masthead.jpg
+thumbnail-img: /assets/img/H9-socmint-thumb.jpg
 share-img: /assets/img/path.jpg
 permalink: /infosec/osint-challenges/
 refsite1: https://en.wikipedia.org/wiki/Open-source_intelligence
@@ -54,12 +54,12 @@ As OSINT relies so heavily on information that is publicly available, it may be 
 
 The Department of Defense Manual 5240.01 (August 2016) defines publicly available information as the following:
 
-- Is published or broadcast for public consumption
-- Is available on request to the public
-- Is accessible online or otherwise to the public
-- Is available to the public by subscription or purchase
-- Is made available at a meeting open to the public
-- Is obtained by visiting any place or attending any event that is open to the public Is any information that could be seen or heard by any casual observer
+- Is **published or broadcast** for public consumption
+- Is **available on request** to the public
+- Is **accessible online** or otherwise to the public
+- Is **available to the public** by subscription or purchase
+- Is **made available at a meeting** open to the public
+- Is **obtained by visiting any place or attending any event** that is open to the public Is any information that could be seen or heard by any casual observer
 
 In short, if an individual can access a piece of information without doing anything illegal, it may be reasonably classified as **“publicly available”**.
 
@@ -75,17 +75,17 @@ those choices can add potential bias to the final results. This will mean that d
 2. **Information Overload & Filtering**: The availability of readily accessible information means that there is a danger of “information overload” to put it mildly. The sheer volume of data extracted and the quality required of it requires that a strict regime needs to be enforced to filter data appropriately, otherwise any number of false positives may be drawn out of the bag.
    Any content filters applied need to be reviewed judiciously and regularly to ensure that the highest quality data is being primed. This may require additional staff hiring or training for team members for identifying the right data elements and approach. That may entail some additional costs to the organization for the process to be successful.Successful OSINT requires good data sources, being primed by skilled data science/cyber analysts, and employing the cor- rect filters and approach.
 
-3. Data Rejections: In the search for quality information from disparate sources (websites) and voluminous inventories, content filtering will inevitably create additional volumes of “rejections” from invalid data. Consequently, the manual ef- forts required for aggregating, processing and delivering pertinent results by “separating out the chaff from the wheat” will also increase and may put a considerable strain on staffing levels for smaller teams of analysts. All this needs to be factored in at the beginning before building out OSINT teams.
+3. **Data Rejections**: In the search for quality information from disparate sources (websites) and voluminous inventories, content filtering will inevitably create additional volumes of “rejections” from invalid data. Consequently, the manual ef- forts required for aggregating, processing and delivering pertinent results by “separating out the chaff from the wheat” will also increase and may put a considerable strain on staffing levels for smaller teams of analysts. All this needs to be factored in at the beginning before building out OSINT teams.
    
-4. Data Unclassified but Detrimental: The fact that so much information is drawn from different sources, “unclassi- fied” data is available in its “raw” form. This means that drawing results out of the same may in some cases potentially be harmful to individuals or groups under investigation. The inability to reconnoiter with the sources makes it doubly difficult at times to take information at face value as so much can be misinterpreted and lead to false accusations. In OSINT efforts to identify the “critical” data of relevance, there may be legal consequences of drawing out the wrong conclusions.
+4. **Data Unclassified but Detrimental**: The fact that so much information is drawn from different sources, “unclassi- fied” data is available in its “raw” form. This means that drawing results out of the same may in some cases potentially be harmful to individuals or groups under investigation. The inability to reconnoiter with the sources makes it doubly difficult at times to take information at face value as so much can be misinterpreted and lead to false accusations. In OSINT efforts to identify the “critical” data of relevance, there may be legal consequences of drawing out the wrong conclusions.
    
-5. Conflicting or Overlapping Data: OSINT will often lead to a process of aggregating and processing numerous dispa- rate intelligence sources. These may be Geo-Spatial Intelligence (GEOINT), Measurement and Signature Intelligence (MASINT), Human Intelligence (HUMINT), and Signal Intelligence (SIGINT).
+5. **Conflicting or Overlapping Data**: OSINT will often lead to a process of aggregating and processing numerous dispa- rate intelligence sources. These may be Geo-Spatial Intelligence (GEOINT), Measurement and Signature Intelligence (MASINT), Human Intelligence (HUMINT), and Signal Intelligence (SIGINT).
 Information garnered from social media outlets would fall under Human Intelligence (HUMINT) but aircraft and vessel travel plans and itineraries abroad to hostile nations may come under Geo-Spatial (GEOINT) whilst unauthorized communi- cations with foreign bad actors should fall squarely in Signal Intelligence (SIGINT). Having a means to see the “big picture” and to consolidate all the different intelligence sources into meaningful traction and results for the investigation is a key skill that a Cyber Security Manager needs to exercise from the get go.
   
-6. Automation / AI & Machine Learning: With the volumes of data to be trawled and processed, the use of automation tools such as Artificial Intelligence (AI) and Machine Learning (ML) are obvious use case candidates.
+6. **Automation / AI & Machine Learning**: With the volumes of data to be trawled and processed, the use of automation tools such as Artificial Intelligence (AI) and Machine Learning (ML) are obvious use case candidates.
 Artificial Intelligence (AI) has made huge strides into the cyber defense arena, often taking the world by storm in its many use cases and efficiency in processing huge amounts of data discreetly, accurately and cleanly. All monitoring measures im- plemented within any organization generate a huge number of extracted data logs, and the endless stream of transactional time stamped data can be the last straw on the camel’s back (figuratively) for OSINT Security teams. Although the data trawled can be voluminous, AI and Machine Learning enabled systems can help to filter out much of the signal noise and identify the subject behavior as per initial requirements. This can help to reduce the number of serious data errors and false positives.
 Even though we all recognize the benefits that AI and ML brings to table it is still very important that skilled cyber analysts review the resulting data to ask the detrimental questions that may still invalidate the data results.
-7. Mosaic Effect: During OSINT research one dataset may get delisted as irrelevant but then get re-enlisted with another dataset to draw an assumption or conclusion. The more datasets combined in this way leads to potential abuse in identifying ndividuals or groups under scrutiny. This is widely known as the “mosaic effect” and one needs to be extra cautious in using these types of connections before releasing potentially damaging information against individuals or groups.
+7. **Mosaic Effect**: During OSINT research one dataset may get delisted as irrelevant but then get re-enlisted with another dataset to draw an assumption or conclusion. The more datasets combined in this way leads to potential abuse in identifying ndividuals or groups under scrutiny. This is widely known as the “mosaic effect” and one needs to be extra cautious in using these types of connections before releasing potentially damaging information against individuals or groups.
 
 ## Conclusion
 
@@ -103,7 +103,7 @@ With OSINT, the aggregated information does not necessarily define us, but assum
 
 ### Published version.
 
-[![Mobile Threat Landscape](/assets/img/H9-Mobile-Threat-landscape-cover.png)](/assets/pdfs/H9-Mobile-Threat-landscape.pdf){:target="_blank"}
+[![Mobile Threat Landscape](/assets/img/H9-socmint-mag-cover.jpg)](/assets/pdfs/H9-socmint-for-hackers.pdf){:target="_blank"}
 
 <div class="views">
     <span class="views">
