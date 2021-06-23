@@ -1,7 +1,7 @@
 ---
 layout: post
 title: OSINT Challenges
-subtitle: OSINT Challenges
+subtitle: Open Source Intelligence Challenges
 cover-img: /assets/img/H9-socmint-masthead.jpg
 thumbnail-img: /assets/img/H9-socmint-thumb.jpg
 share-img: /assets/img/path.jpg
