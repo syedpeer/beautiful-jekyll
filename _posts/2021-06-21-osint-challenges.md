@@ -4,7 +4,7 @@ title: OSINT Challenges
 subtitle: Open Source Intelligence Challenges
 cover-img: /assets/img/H9-socmint-masthead.jpg
 thumbnail-img: /assets/img/H9-socmint-thumb.jpg
-share-img: /assets/img/path.jpg
+share-img: /assets/img/H9-socmint-masthead.jpg
 permalink: /infosec/osint-challenges/
 refsite1: https://en.wikipedia.org/wiki/Open-source_intelligence
 refsite2: https://www.knowledgenile.com/blogs/osint-challenges/
