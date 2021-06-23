@@ -46,6 +46,8 @@ Open-source intelligence (OSINT) is a multi-factor (qualitative, quantitative) m
 
 Although methods used for gathering information have a history of hundreds of years, and especially so for military cam- paigns, the recent digital revolution and searchable web have made OSINT the “go to” trend for easy and quick results. OS- INT relies heavily on a range of different information sources as shown in the figure below.
 
+[![OSINT](/assets/img/H9-osint-sources-circle.jpg)
+
 Easy information accessibility brings with it the monumental effort involved in aggregating all this data and trying to make sense of what it all means to the data scientist or cyber security analyst. No simple feat by any means.
 
 ## Publicly Available Information
@@ -103,7 +105,7 @@ With OSINT, the aggregated information does not necessarily define us, but assum
 
 ### Published version.
 
-[![Mobile Threat Landscape](/assets/img/H9-socmint-mag-cover.jpg)](/assets/pdfs/H9-socmint-for-hackers.pdf){:target="_blank"}
+[![OSINT](/assets/img/H9-socmint-mag-cover.jpg)](/assets/pdfs/H9-socmint-for-hackers.pdf){:target="_blank"}
 
 <div class="views">
     <span class="views">
