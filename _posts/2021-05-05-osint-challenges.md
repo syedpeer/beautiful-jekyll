@@ -46,7 +46,7 @@ Open-source intelligence (OSINT) is a multi-factor (qualitative, quantitative) m
 
 Although methods used for gathering information have a history of hundreds of years, and especially so for military campaigns, the recent digital revolution and searchable web have made OSINT the “go to” trend for easy and quick results. OSINT relies heavily on a range of different information sources as shown in the figure below.
 
-[![OSINT](/assets/img/H9-osint-sources-circle.jpg)
+![OSINT](/assets/img/H9-osint-sources-circle.jpg)
 
 Easy information accessibility brings with it the monumental effort involved in aggregating all this data and trying to make sense of what it all means to the data scientist or cyber security analyst. No simple feat by any means.
 
