@@ -67,7 +67,7 @@ In short, if an individual can access a piece of information without doing anyth
 
 ## OSINT Challenges
 
-Every organization needs to look before they leap into OSINT; though it has many advantages, there are some challenges that need to be addressed. Choosing to ignore these challenges will make the OSINT effort harder, longer, costlier and po- tentially less productive.
+Every organization needs to look before they leap into OSINT; though it has many advantages, there are some challenges that need to be addressed. Choosing to ignore these challenges will make the OSINT effort harder, longer, costlier and potentially less productive.
 
 The following outline of OSINT challenges may be helpful:
 
