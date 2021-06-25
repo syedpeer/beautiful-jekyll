@@ -1,5 +1,5 @@
 ---
-title: ERP-Imaging Database Integration
+title: ERP Imaging Database Integration
 layout: project_page
 description: Integration between ERP JD Edwards and CIMAGE Imaging Database. 
 ---
