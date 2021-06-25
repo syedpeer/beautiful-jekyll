@@ -16,6 +16,7 @@ author: Syed Peer
 navbar-links:
   About Me: "aboutme"
   Resume: "resume"
+  Themes: "themes"
   Projects: "projects"
   Resources:
     - Portfolio: "portfolio"
@@ -38,6 +39,9 @@ round-avatar: true
 
 # --- Collections --- #
 collections:
+  themes:
+    output: true
+    permalink: /jekyll-themes/:path/
   projects:
     output: true
     permalink: /:collection/:title
