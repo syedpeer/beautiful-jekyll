@@ -41,7 +41,7 @@ round-avatar: true
 collections:
   themes:
     output: true
-    permalink: /jekyll-themes/:path/
+    permalink: /:collection/:title
   projects:
     output: true
     permalink: /:collection/:title
