@@ -15,6 +15,5 @@ title: Themes
 </div>
 
 <p class="post-excerpt">{{ themes.description | truncate: 160 }}</p>
-this is an extra line..
 
 {% endfor %}  
