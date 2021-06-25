@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jekyll Themes Are here..
+title: Themes
 ---
 
 {% for themes in site.themes %}
