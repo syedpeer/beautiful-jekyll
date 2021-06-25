@@ -41,7 +41,7 @@ round-avatar: true
 collections:
   themes:
     output: true
-    permalink: /:collection/:title
+    permalink: /themes/:path/
   projects:
     output: true
     permalink: /:collection/:title
