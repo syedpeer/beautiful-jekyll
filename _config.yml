@@ -36,6 +36,11 @@ round-avatar: true
 # then specify the following parameter
 #title-img: /path/to/image
 
+# --- Collections --- #
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:title
 
 # --- Footer social media links --- #
 
