@@ -1,7 +1,20 @@
 ---
 title: BI Management Dashboards
 layout: project_page
-description: This is the first sample project to see if we can show projects in a list or in a grid. THis is really a super duper project to start with.
+description: One stop shop Business Intelligence (BI) decision support system developed in house to aid senior management with a 40,000 high end of day view of major metrics measued within the company. 
 ---
 
-At the completion of a 3-year long project managed to establsh a remote fail over site for disaster recovery compliance. Site was hosted by the local Telco (Ooredoo) at their Ooredoo Data Center 4 (ODC4) location in the desert at Mukainis. Two Disaster Recovery Drills performed per year in collaboration with the different business area users from departments: Administration, Finance, Maintenance, Production, HR etc.
+One stop shop Business Intelligence (BI) based Decision Support System (DSS) developed internally to assist QAFCO Senior Management (CEO & Chief Oficers) with a unified 40,000 feet high overview of end-of-day major metrics measued within the company. 
+
+Originally built to support Production Department metrics the BI Dashboards were quickly expanded to cover other department business areas covering Administration, HR, Finance and  Maintenance etc.
+
+A small dedicated in-house team of 2/3 developer/analysts employed to connect varied important heterogenous systems across organization (ERP, PIMS, LIMS etc.) to create necessary consolidated views over the data.
+
+Tech Stack:
+
+- ASP.Net
+- Web Services
+- Oracle BI Publisher
+- JAMSTACK UI Console
+- Multi-Factor Authentication (MFA) 
+- Google Athenticator
