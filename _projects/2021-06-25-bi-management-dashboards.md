@@ -10,9 +10,9 @@ Originally built to support Production Department metrics the BI Dashboards were
 
 A small dedicated in-house team of 2/3 developer/analysts employed to connect varied important heterogenous systems across organization (ERP, PIMS, LIMS etc.) to create necessary consolidated views over the data.
 
-Tech Stack:
+**Tech Stack**:
 
-- ASP.Net
+- Microsoft ASP.Net
 - Web Services
 - Oracle BI Publisher
 - JAMSTACK UI Console
