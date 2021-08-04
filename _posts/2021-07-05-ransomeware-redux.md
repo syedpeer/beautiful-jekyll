@@ -1,19 +1,17 @@
 ---
 layout: post
 title: Ransomware Redux
-subtitle: Open Source Intelligence Challenges
-cover-img: /assets/img/H9-socmint-masthead.jpg
+subtitle: Ransomware Rinse and Repeat
+cover-img: /assets/img/rw-header.png
 thumbnail-img: /assets/img/H9-socmint-thumb.jpg
-share-img: /assets/img/H9-socmint-masthead.jpg
+share-img: /assets/img/rw-header.png
 permalink: /infosec/ransomware-redux/
 refsite1: https://en.wikipedia.org/wiki/Ransomware
 refsite2: https://www.marsh.com/us/insights/research/ransomware-stats-every-business-needs-to-know.html
 tags: [books, infosec]
 ---
 
-## Introduction
-
-As humanity (in its billions) marches forwards in its relentless race to break new technology frontiers and mankind revels in its fruits with gadgets galore and more toys than we will ever have to time to play with, a blue-collar industry has come into existence of modern-day burglars, pirates, and highwaymen.
+As humanity (in its billions) marches forwards in its relentless race to break new technology frontiers and mankind revels in its fruits with gadgets galore and more toys than we will ever have to time to play with, a blue-collar industry has come into existence of modern-day burglars, pirates, and **highwaymen**.
 
 <blockquote>
 
