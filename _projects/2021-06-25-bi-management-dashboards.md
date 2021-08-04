@@ -18,7 +18,7 @@ A small dedicated in-house team of 2/3 developer/analysts employed to connect va
 - JAMSTACK UI Console
 - Multi-Factor Authentication (MFA) 
   - Google Athenticator
-ß
+
 **Departments / Areas**:
 
 - Management
