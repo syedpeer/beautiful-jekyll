@@ -80,11 +80,12 @@ Organizations need to looking at some of the following steps as a minimum requir
 
 3. **Redraw and Remap the Network**: In the search for better security, business owners must review and possibly remap their network configuration allowing for rigorous segmentation to keep the critically impacted areas within their con- trol and containment strategy. After saving lives (which remain their first priority) Firemen rarely try to save the whole building, they are only interested in preventing the spread of the fire to adjoining homes and businesses in the surround- ing areas. Computer networks are no different and need some TLC (tender loving care) every few years is needed to be sure that networks are reviewed and optimized for security and “containment”.
 
-4. **Use Multi-Factor Authentication (MFA)**: Every login to systems should require a secondary degree of validation that MFA can provide. Although some customers are loath to use it, due to its so called an inconvenience, the technology has been around for a number of years and provides the additional security to trust any login credential. How far would the Colonial hack have reached if MFA been implemented on all VPN logins? 
+4. **Use Multi-Factor Authentication (MFA)**: Every login to systems should require a secondary degree of validation that MFA can provide. Although some customers are loath to use it, due to its so called an inconvenience, the technology has been around for a number of years and provides the additional security to trust any login credential. How far would the Colonial hack have reached if MFA been implemented on all VPN logins?
+
 5. **Audit**: Continuously ask for an audit of accounts with heightened privilege for both Super Users and Networks Admins. Ensure that a “least privilege” approach is established and all deviations from the same require manager approvals. Inter- nal Audit will be all to ready to help IT / OT with this so it should not be a burden to do regularly with a rotating schedule.
-.
+
 6. **Enforce More Rigid Email Restrictions**: Disable hyperlinks contained within received emails to prevent spear phish- ing and malware spread. Improve email filtering and ensure that antivirus and anti-malware software are current and up to date.
-.
+
 7. **Awareness Training**: Build out the employee awareness and training program and ensure that they are current with respect to recent attack vectors. Employees are the first line of defense and their education should remain a priority.
 8.Password Policy: Require complex passwords and ensure that they are changed regularly based on an agreed schedule. Disable all unused credentials for any type of remote access/RDP and ensure that necessary ports and logs are reviewed regularly.
 
@@ -102,7 +103,7 @@ Separately, the dependence on private energy providers and infrastructure who ar
 
 ### Published version.
 
-[![OSINT](/assets/img/H9-socmint-mag-cover.jpg)](/assets/pdfs/H9-socmint-for-hackers.pdf){:target="_blank"}
+[![OSINT](/assets/img/rw-mag-cover.png)](/assets/pdfs/H9-RM-VM.pdf){:target="_blank"}
 
 <div class="views">
     <span class="views">
