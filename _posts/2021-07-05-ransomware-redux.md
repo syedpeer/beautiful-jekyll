@@ -3,7 +3,7 @@ layout: post
 title: Ransomware Redux
 subtitle: Ransomware Rinse and Repeat
 cover-img: /assets/img/rw-header.png
-thumbnail-img: /assets/img/H9-socmint-thumb.jpg
+thumbnail-img: /assets/img/rw-thumb.png
 share-img: /assets/img/rw-header.png
 permalink: /infosec/ransomware-redux/
 refsite1: https://en.wikipedia.org/wiki/Ransomware
@@ -98,8 +98,8 @@ Separately, the dependence on private energy providers and infrastructure who ar
 
 ## References
 
-1. Wikipedia Definition: <a href="{{page.refsite1}}">Open Source Intelligence</a>
-2. Ransomware Stats:: <a href="{{page.refsite2}}">OSINT Challenges</a>
+1. Wikipedia Definition: <a href="{{page.refsite1}}">Ransomware</a>
+2. Ransomware Stats: <a href="{{page.refsite2}}">Ransomware Stats Every Business Needs to Know</a>
 
 ### Published version.
 
