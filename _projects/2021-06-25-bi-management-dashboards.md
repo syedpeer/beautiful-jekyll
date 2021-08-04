@@ -13,8 +13,20 @@ A small dedicated in-house team of 2/3 developer/analysts employed to connect va
 **Tech Stack**:
 
 - Microsoft ASP.Net
-- Web Services
+  - Web Services
 - Oracle BI Publisher
 - JAMSTACK UI Console
 - Multi-Factor Authentication (MFA) 
-- Google Athenticator
+  - Google Athenticator
+ß
+**Departments / Areas**:
+
+- Management
+- Finance
+  - General Accounting
+  - Procurement / Supply Chain
+- Human Resources (HR)
+- Maintenance
+  - Work Order (WO) System
+- Production
+  - Daily Production by Plant
