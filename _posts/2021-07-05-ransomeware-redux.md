@@ -8,9 +8,7 @@ share-img: /assets/img/H9-socmint-masthead.jpg
 permalink: /infosec/ransomware-redux/
 refsite1: https://en.wikipedia.org/wiki/Ransomware
 refsite2: https://www.marsh.com/us/insights/research/ransomware-stats-every-business-needs-to-know.html
-refsite3: https://responsibledata.io/2016/11/14/responsible-data-open-source-intelligence/
 tags: [books, infosec]
-publish: false;
 ---
 
 ## Introduction
