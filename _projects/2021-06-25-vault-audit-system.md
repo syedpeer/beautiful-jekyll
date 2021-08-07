@@ -12,6 +12,7 @@ Built from the ground up using Java J2EE and integrated document imaging reposit
 
 **Tech Stack**:
 
-- Java J2EE 
+- Java J2EE
+- IBM Websphere 
 - IBM DB2 Database
 - API based Imaging provider

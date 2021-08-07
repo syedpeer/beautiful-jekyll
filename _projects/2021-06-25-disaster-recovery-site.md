@@ -10,7 +10,7 @@ Remote Site was housed by the local Telecomms provider (Ooredoo) at their Ooredo
 
 Two Disaster Recovery Drills established per year in collaboration between IT staff and different business area users from departments: Administration, Finance, Maintenance, Production, HR etc.
 
-**Tech Stacks**:
+**Tech Stack**:
 
 - 2 Tower Racks
 - IBM AIX Servers

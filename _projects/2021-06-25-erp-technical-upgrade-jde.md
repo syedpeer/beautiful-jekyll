@@ -12,7 +12,7 @@ Rigorous QA testing and Code Freeze strategy utilized to ensure smooth GO LIVE E
 
 An On-shore off-shore model followed for delivery with 2 ERP techno-functional teams and 4 vendor sourced JDE analysts. A separate offshore team of 4/6 persons assisted with both core and additonal development.
 
-**Tech Specs**:
+**Tech Stack**:
 
 - Oracle ERP JD Edwards
 - Microsoft ASP.Net
