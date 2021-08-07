@@ -1,6 +1,6 @@
 ---
 title: ISO 270001 Certfication
-layout: project_page
+layout: project
 description: Project to advance ISO 27001 Certfication for the organization. 
 ---
 

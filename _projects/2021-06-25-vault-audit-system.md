@@ -1,6 +1,6 @@
 ---
 title: Vault Audit System
-layout: project_page
+layout: project
 description: Project to improve Collateral Documents validation and certification processes and to reduce errors and government penalties during investor transfers to Gennie Mae and Fannie Mae. 
 ---
 

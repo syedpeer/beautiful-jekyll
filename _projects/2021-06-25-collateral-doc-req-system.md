@@ -1,6 +1,6 @@
 ---
 title: Collateral Document Request System (CDRS)
-layout: project_page
+layout: project
 description: Project to enhance handling of Collateral Documents between with different business areas in order to expedite investor transfer and tracking of the same. 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Qatar Cyber Security Framework
-layout: project_page
+layout: project
 description: Project to be in compliance with the regulatory QCERT dictated FIFA 2022 Cyber Security Framework
 ---
 

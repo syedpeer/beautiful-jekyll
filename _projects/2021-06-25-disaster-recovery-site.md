@@ -1,6 +1,6 @@
 ---
 title: Disaster Recovery Site
-layout: project_page
+layout: project
 description: Project to establish a reliable best-in-class Remote Failover Secondary data center to meet strict necessary government Regulatory and Compliance requirements. 
 ---
 

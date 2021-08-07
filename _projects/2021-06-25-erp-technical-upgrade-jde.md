@@ -1,6 +1,6 @@
 ---
 title: ERP Technical Upgrade
-layout: project_page
+layout: project
 description: ERP Technical Upgrade JD Edwards from ver. 8.11 to ver. 9.
 ---
 

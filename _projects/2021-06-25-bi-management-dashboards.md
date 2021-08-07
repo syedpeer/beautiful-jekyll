@@ -1,6 +1,6 @@
 ---
 title: BI Management Dashboards
-layout: project_page
+layout: project
 description: One stop shop Business Intelligence (BI) decision support system developed in house to aid senior management with a 40,000 high end of day view of major metrics measued within the company. 
 ---
 
