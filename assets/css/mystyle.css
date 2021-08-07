@@ -4,3 +4,7 @@ hr {
   height: 10px;
   background-color: red;
 }
+
+.post-preview .post-subtitle {
+  color: red;
+}
