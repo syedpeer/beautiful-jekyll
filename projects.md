@@ -9,7 +9,7 @@ title: Projects
 <div>
   <h2><a href="{{ project.url }}">{{ project.title }}</a></h2>
   {% if project.subtitle %}
-    <h3 class="post-subtitle">
+    <h3 class="project-subtitle">
     {{ project.subtitle }}
     </h3>
   {% endif %}  

@@ -1,6 +1,7 @@
 ---
-title: ERP Imaging Database Integration
 layout: project
+title: ERP Imaging Database Integration
+subtitle: Bring Imaging and ERP together for improved productivity
 description: Integration between ERP JD Edwards and CIMAGE Imaging Database to provide seamless and efficient  API based access to Production Technical documents and images with the QAFCO Technical Documentation System. 
 ---
 
