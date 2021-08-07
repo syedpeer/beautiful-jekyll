@@ -3,12 +3,12 @@ layout: page
 title: Projects
 ---
 
-{% for projects in site.projects %}
+{% for project in site.projects %}
 
 <div>
-  <h2><a href="{{ projects.url }}">{{ projects.title }}</a></h2>
+  <h2><a href="{{ project.url }}">{{ project.title }}</a></h2>
 </div>
 
-<p class="post-excerpt">{{ projects.description | truncate: 160 }}</p>
+<p class="post-excerpt">{{ project.description | truncate: 160 }}</p>
 
 {% endfor %}  
