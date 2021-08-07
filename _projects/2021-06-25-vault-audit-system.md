@@ -1,6 +1,7 @@
 ---
-title: Vault Audit System
 layout: project
+title: Vault Audit System
+subtitle: A proactive approach to penalty avoidance
 description: Project to improve Collateral Documents validation and certification processes and to reduce errors and government penalties during investor transfers to Gennie Mae and Fannie Mae. 
 ---
 
