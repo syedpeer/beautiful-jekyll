@@ -5,11 +5,16 @@ title: Projects
 
 {% for project in site.projects %}
 
-<!--
+
 <div>
   <h2><a href="{{ project.url }}">{{ project.title }}</a></h2>
+  {% if project.subtitle %}
+    <h3 class="post-subtitle">
+    {{ project.subtitle }}
+    </h3>
+  {% endif %}  
 </div>
--->
+
 
 <a href="{{ project.url | absolute_url }}">
   <h2 class="post-title">{{ project.title }}</h2>
