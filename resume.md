@@ -38,8 +38,24 @@ Seasoned Engineering Manager experienced in Digital/Cloud implementation, *Busin
 <hr/>
 ## Experience
 
+###  IT Manager 
+###### Canoga Perkins &bull; Sept/2020 - Present &bull; Los Angeles CA USA
+
+Canoga Perkins is a leader in cutting-edge 5G Fronthaul and Backhaul Ethernet transport products. 
+
+- Directly supervise employees in the Information Technology Department
+- Serves as primary corporate spokesperson for Information Management
+- Create, implement and maintain the company's information management strategy
+- Maintain IT Applications, Infrastructure Strategy, Architecture, and Processes
+- Maintain essential IT operations and processes
+- Oversight for OS, Security Tools, Applications, Servers, Email, software & hardware
+- Lead large IT projects, including design/deployment of new IT systems & services
+- ERP (QAD PRO), Engineering and Manufacturing Applications
+- Track and maintain hardware and software inventory
+- Review processes/technologies and vendors. Identify improvements 
+
 ### Software Engineering Manager
-###### Confidential &bull; Nov/2020 - Present &bull; Los Angeles
+###### Confidential &bull; Nov/2020 - Sept/2020 &bull; Los Angeles CA USA
 - Consulting - client projects
 
 ###  Dir. Engineering / IT Manager 
