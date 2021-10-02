@@ -48,7 +48,7 @@ Canoga Perkins is a leader in cutting-edge 5G Fronthaul and Backhaul Ethernet tr
 - Create, implement and maintain the company's information management strategy
 - Maintain IT Applications, Infrastructure Strategy, Architecture, and Processes
 - Maintain essential IT operations and processes
-- Oversight for OS, Security Tools, Applications, Servers, Email, software & hardware
+- Oversight for OS, Security Tools, Applications, Servers, Email, software/hardware
 - Lead large IT projects, including design/deployment of new IT systems & services
 - ERP (QAD PRO), Engineering and Manufacturing Applications
 - Track and maintain hardware and software inventory
