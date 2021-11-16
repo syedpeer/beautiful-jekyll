@@ -2,13 +2,13 @@
 layout: post
 title: Python To The Rescue
 subtitle: Python is your best friend for InfoSec
-cover-img: /assets/img/rw-header.png
+cover-img: /assets/img/python-to-the-rescue-header.png
 thumbnail-img: /assets/img/rw-thumb.png
 share-img: /assets/img/rw-header.png
 permalink: /infosec/python-to-the-rescue/
 published: true
-refsite1: https://en.wikipedia.org/wiki/Ransomware
-refsite2: https://www.marsh.com/us/insights/research/ransomware-stats-every-business-needs-to-know.html
+refsite1: https://en.wikipedia.org/wiki/Computer_program#History
+refsite2: https://www.imperva.com/blog/the-worlds-most-popular-coding-language-happens-to-be-most-hackers-weapon-of-choice/
 tags: [books, infosec]
 ---
 
@@ -17,15 +17,10 @@ Many folks from all walks of life and occupations aspire on a daily basis to gai
 <blockquote>
 
 <p align="center">
-“Talk is cheap, show me the code<br/>
- ― Linus Torvalds
+“Talk is cheap, show me the code ― Linus Torvalds
 </p>
 
 </blockquote>
-
-The highwaymen of old, masked, locked and loaded, would locate themselves in green pastures and foliage for camouflage and lay in wait for their unsuspecting victims to arrive. Then at the appropriate moment they would reveal themselves on the road and stop stage coaches in their tracks while their victims stared down the barrel of a musket and were read the un- forgettable command “Stand and deliver”. Theirs was a strategy of stealth and ambush that would confuse and confound their victims, ungentlemanly in its manner but lethal in its execution. Their prize would be a “king’s ransom” (or whatever was available) in return for the lives and property of their victims.
-
-Fast forwarding to the present, a whole new industry has evolved of digital highwaymen better equipped than their forebear- ers and more efficient in their methods concealing their identity and leaving few traces of their pathways and steeped in a currency only the most daring can afford.
 
 ## Computer Program Definition 
 
@@ -103,7 +98,7 @@ For all the reasons above, and some I may have missed, it should be manifestly c
 ## References
 
 1. Wikipedia Definition: <a href="{{page.refsite1}}">Ransomware</a>
-2. Ransomware Stats: <a href="{{page.refsite2}}">Ransomware Stats Every Business Needs to Know</a>
+2. Hackers Weapon of Choice: <a href="{{page.refsite2}}">Hackers Weapon of Choice</a>
 
 ### Published version.
 
