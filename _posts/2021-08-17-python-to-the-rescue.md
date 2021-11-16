@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/rw-thumb.png
 share-img: /assets/img/rw-header.png
 permalink: /infosec/python-to-the-rescue/
 published: true
-refsite1: https://en.wikipedia.org/wiki/Computer_program#History
+refsite1: https://en.wikipedia.org/wiki/Computer_program
 refsite2: https://www.imperva.com/blog/the-worlds-most-popular-coding-language-happens-to-be-most-hackers-weapon-of-choice/
 tags: [books, infosec]
 ---
