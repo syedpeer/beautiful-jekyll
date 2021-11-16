@@ -5,7 +5,7 @@ subtitle: Python is your best friend for InfoSec
 cover-img: /assets/img/rw-header.png
 thumbnail-img: /assets/img/rw-thumb.png
 share-img: /assets/img/rw-header.png
-permalink: /infosec/ransomware-redux/
+permalink: /infosec/python-to-the-rescue/
 published: false
 refsite1: https://en.wikipedia.org/wiki/Ransomware
 refsite2: https://www.marsh.com/us/insights/research/ransomware-stats-every-business-needs-to-know.html
@@ -27,32 +27,52 @@ The highwaymen of old, masked, locked and loaded, would locate themselves in gre
 
 Fast forwarding to the present, a whole new industry has evolved of digital highwaymen better equipped than their forebear- ers and more efficient in their methods concealing their identity and leaving few traces of their pathways and steeped in a currency only the most daring can afford.
 
-## Ransomware Definition
+## Computer Program Definition 
 
 As defined by Wikipedia:
 
 <blockquote>
 
 <p align="left"><br/>
-Ransomware is a type of malware from cryptovirology that threatens to publish the victim's per- sonal data or perpetually block access to it unless a ransom is paid. While some simple ransomware may lock the system so that it is not difficult for a knowledgeable person to reverse, more advanced malware uses a technique called cryptovi- ral extortion. It encrypts the victim's files, making them inaccessible, and demands a ransom payment to decrypt them.<br/><br/>
+A computer program is a collection of instructions that can be executed by a computer to perform a specific task.<br/><br/>
 </p>
 
 </blockquote>
 
+Although this definition sounds almost too simplistic it speaks volumes in so far as trying to explain a vast and expansive field of study. An ocean of learning awaits those who would take on this seemingly Herculean task.
+
 ## Background
 
-Ransomware has been a “thing” since the mid-2000’s and has affected enterprises of all sizes and verticals and even touched the lives of individuals. In 2017 alone the FBI’s Internet Crime Complaint Center (ICC) received almost 2000 complaints that cost the victims over 2 million dollars in payments. Those were only the officially reported cases. We may sur- mise that the actual numbers are much higher considering that in 2020 alone there were over 180 million ransomware at- tacks reported.
-Relying solely on the internet alone, these modern armchair highwaymen have wrecked the lives and business of so many and made a permanent place in the annal of cybercrime.
+Python is a widely used and wildly popular high-level programming language used in the many fields such as Data Science, Artificial Intelligence (AI), Machine Learning (ML) and Cyber Security. Few languages can compare to its meteoric rise across software and mathematical analysis domains in speed and functionality. It was initially developed by Guido van Russum back in 1991 and has been developed further by the Python Software Foundation. 
 
-![OSINT](/assets/img/rw-demand-screen.png)
+Work on Python began in the late 80s when Guido van Rossum was working at the Centrum Wiskunde & Informatica (CWI) situated in the Netherlands. Begun as a hobby project it was a successor to the ABC programming language. Having helped to create the ABC programming Guido decided to take the syntax and best features of ABC into a new scripting language and worked to iron out all of ABC’s existing user complaints and flaws during the transition. He named the language “Python” after his favorite BBC TV show “Month Pythons Flying Circus”. The Python language was released in 1991 and Guido van Rossum remained the permanent “Benevolent dictator for life” (BDFL) until 2018 when he stepped down. Compared to other high-level languages such as Java, C++ and C, Python used a lot fewer codes and focused on providing readability and developer productivity out of the gate.
 
-While ransoming has been around for centuries whether for goods or captives taken in battle or as part of conquest, mod- ern day digital ransomware varieties have grown exponentially with increasingly advanced capability to spread laterally across the organization, to avoid detection, to encrypt files and folders and to apply measured coercion to exact payments. Modern day ransomware proponents will even make use of legitimate system level features such as Microsoft’s CryptoAPI, thereby avoiding the need for calling an external Command and Control (C2) point and avoiding detection by any in-house Data Leakage Prevention (DLP) solution.
+The graphic below clearly outlines the rise of Python (thru to 2019). 
 
-## Ransomeware: Modus Operandi
 
-The term “ransomware” is somewhat misleading as it points to the endgame of customer extortion rather than the mechan- ics of what is actually happening under the hood. The first step always has to be a means to access the target systems files and folders and this is often facilitated by a targeted phishing attack. Some sobering 2020 ransomware stats are shown below.
+![OSINT](/assets/img/python-thru-to-2019.png)
 
-![OSINT](/assets/img/rw-numbers.png)
+## Why Python? Why now?
+
+Beyond necessary skills in networking and operating systems the greatest asset for anyone entering the InfoSec space is knowledge of programming. Specifically, the knowledge of Python. This will put you in a great place to exercise both your hacking skills and learn from the best proponents in the field. 
+
+- Although some people may have cringed at the idea of getting into programming (and the associated math) that gets over their heads from earlier bitter experiences in high school (or elsewhere), programming in and of itself can be a very rewarding pursuit both within cyber security field and other domains. This skill is transferable!
+
+- Python through no accident of itself has become the language of choice for hackers worldwide. Its acceptance by the developer communities has been dramatic and places it at the forefront of others languages within this domain (and others). This is evidenced by the large number of Python repositories and tools available on Github alone. A cursory review found that well over 20% of all exploits and attack tools were written in Python. 
+
+The chart below sheds clarity on this particular programming phenomenon and the degree to which Python has taken the lead in this domain.
+
+![OSINT](/assets/img/python-market-percentage.png)
+
+- The two most popular Python modules used for web-based attacks were “Urllib” and “Requests”. Another newer module “Async IO” is also gaining ground recently as it fits in perfectly for “Layer 7 DDos” type attacks.
+
+- Analysis done on sites that were attacked shows that an alarming 77% were initiated by a Python based tool and in over 30% of cases a Python based tool was responsible for the daily attacks under the APT umbrella.
+
+![OSINT](/assets/img/percent-sites-attacked-by-python.png)
+
+- Python is also well placed for attack on some of the most popular frameworks used on the web, such as Joomla, Drupal, WordPress, PHP and Struts. 
+
+In short, there is ample evidence within business and industry that Python is becoming the de facto language for exploit development and attacks. 
 
 ## The “Colonial Pipeline” Case Study
 
