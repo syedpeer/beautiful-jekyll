@@ -97,8 +97,8 @@ For all the reasons above, and some I may have missed, it should be manifestly c
 
 ## References
 
-1. Wikipedia Definition: <a href="{{page.refsite1}}">Ransomware</a>
-2. Hackers Weapon of Choice: <a href="{{page.refsite2}}">Hackers Weapon of Choice</a>
+1. Wikipedia Definition: <a href="{{page.refsite1}}" target="_blank">Ransomware</a>
+2. Most Popular Coding Language: <a href="{{page.refsite2}}"  target="_blank">Hackers Weapon of Choice</a>
 
 ### Published version.
 
