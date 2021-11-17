@@ -3,8 +3,8 @@ layout: post
 title: Python To The Rescue
 subtitle: Python is your best friend for InfoSec
 cover-img: /assets/img/python-to-the-rescue-header.png
-thumbnail-img: /assets/img/rw-thumb.png
-share-img: /assets/img/rw-header.png
+thumbnail-img: /assets/img/python-thumb.png
+share-img: /assets/img/python-to-the-rescue-header.png
 permalink: /infosec/python-to-the-rescue/
 published: true
 refsite1: https://en.wikipedia.org/wiki/Computer_program
