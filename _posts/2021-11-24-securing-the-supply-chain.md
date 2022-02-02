@@ -62,7 +62,7 @@ Besides the basic rule of thumb to always work to reduce the attack surface of a
 
 6.	**Exploit Writing**: Being a general-purpose language Python is used extensively for exploit writing by hackers worldwide.  It is the language of choice for millions of hackers and remains the foremost tool for writing exploits, hacking scripts and malware. It would be foolish for any aspiring cyber security student to ignore its importance in this area.
 
-7.	**Large Standard Library**: Python is blessed with a large standard library of functions and modules so that you do not need to reinvent the wheel. Many libraries provide the necessary functionality for web surfing, regular expressions (regex), and unit testing just to name a few. This ready tool belt of functions means a huge step up boost for developers from the get go.
+7.	**Large Standard Library**: Python is blessed with a large standard library of functions and modules so that you do not need to reinvent the wheel. Many libraries provide the necessary functionality for web surfing, regular expressions (regex), and unit testing just to name a few. This ready tool belt of functions means a huge step up boost for developers from the get go. 
 
 8.	**Extensibility**: Python is by nature an extensible language. The availability of ready-made modules makes hacking easier with Python. Modules are available based on the target audience and platform; OS modules, socket modules, web scraping etc. Python may also be used for socket programming for discovering vulnerabilities in target systems.
 
