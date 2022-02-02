@@ -2,11 +2,11 @@
 layout: post
 title: Securing The Supply Chain
 subtitle: How fragile is your supply chain?
-cover-img: /assets/img/python-to-the-rescue-header.png
+cover-img: /assets/img/securing-the-supply-chain-header.png
 thumbnail-img: /assets/img/python-thumb.png
 share-img: /assets/img/python-to-the-rescue-header.png
 permalink: /infosec/securing-the-supply-chain/
-published: false
+published: true
 refsite1: https://en.wikipedia.org/wiki/Computer_program
 refsite2: https://www.imperva.com/blog/the-worlds-most-popular-coding-language-happens-to-be-most-hackers-weapon-of-choice/
 tags: [books, infosec]
@@ -42,7 +42,7 @@ Although this definition sounds almost too simplistic it speaks volumes in so fa
 
 The “modus operandi” of a supply chain attack centers around an individual or team of bad actors targeting an organization not directly (as that would be too obvious) but rather through an external trusted partner or supplier who may have some manner of access to the organization’s systems. This new route for hackers has grown within the last few years and has transformed the attack surfaces significantly from not just the target organization itself but now across all companies, sup- pliers, and service providers that have any manner of touchpoints within the organization.
 
-![OSINT](/assets/img/python-thru-to-2019.png)
+![OSINT](/assets/img/securing-the-supply-chain-01.png)
 
 This now presents a clear and present danger to organizations as sensitive data inside the organization that is accessible by trusted partners outside the organization can now become the source of a data breach or worse still a malware injection. This danger can be compounded if the target organization is a “supplier-of-suppliers” who happen to house sensitive infor- mation about other suppliers on their systems. Like almost everything in the internet age, the danger growth curve is expo- nential in nature.
 
