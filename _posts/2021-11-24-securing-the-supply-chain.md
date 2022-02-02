@@ -24,9 +24,9 @@ However, as software has brought immense accessibility and reach to billions of 
 
 </blockquote>
 
-## Computer Program Definition 
+## Definition 
 
-As defined by Wikipedia:
+As defined by Wikipedia: 
 
 <blockquote>
 
