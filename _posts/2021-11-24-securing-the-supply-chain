@@ -5,7 +5,7 @@ subtitle: How fragile is your supply chain?
 cover-img: /assets/img/python-to-the-rescue-header.png
 thumbnail-img: /assets/img/python-thumb.png
 share-img: /assets/img/python-to-the-rescue-header.png
-permalink: /infosec/python-to-the-rescue/
+permalink: /infosec/securing-the-supply-chain/
 published: true
 refsite1: https://en.wikipedia.org/wiki/Computer_program
 refsite2: https://www.imperva.com/blog/the-worlds-most-popular-coding-language-happens-to-be-most-hackers-weapon-of-choice/
@@ -31,7 +31,7 @@ As defined by Wikipedia:
 <blockquote>
 
 <p align="left"><br/>
-A computer program is a collection of instructions that can be executed by a computer to perform a specific task.<br/><br/>
+As defined by Wikipedia "A supply chain attack is a cyber-attack that seeks to damage an organization by targeting less- secure elements in the supply chain. A supply chain attack can occur in any industry, from the financial sector, oil indus- try, to a government sector.”. Although there are many ways to define and explain this term, the key takeaway from this definition is the “less-secure” element that is a constant in all forms of cyber security defense conversations.<br/><br/>
 </p>
 
 </blockquote>
@@ -40,16 +40,15 @@ Although this definition sounds almost too simplistic it speaks volumes in so fa
 
 ## Background
 
-Python is a widely used and wildly popular high-level programming language used in the many fields such as Data Science, Artificial Intelligence (AI), Machine Learning (ML) and Cyber Security. Few languages can compare to its meteoric rise across software and mathematical analysis domains in speed and functionality. It was initially developed by Guido van Russum back in 1991 and has been developed further by the Python Software Foundation. 
-
-Work on Python began in the late 80s when Guido van Rossum was working at the Centrum Wiskunde & Informatica (CWI) situated in the Netherlands. Begun as a hobby project it was a successor to the ABC programming language. Having helped to create the ABC programming Guido decided to take the syntax and best features of ABC into a new scripting language and worked to iron out all of ABC’s existing user complaints and flaws during the transition. He named the language “Python” after his favorite BBC TV show “Month Pythons Flying Circus”. The Python language was released in 1991 and Guido van Rossum remained the permanent “Benevolent dictator for life” (BDFL) until 2018 when he stepped down. Compared to other high-level languages such as Java, C++ and C, Python used a lot fewer codes and focused on providing readability and developer productivity out of the gate.
-
-The graphic below clearly outlines the rise of Python (thru to 2019). 
-
+The “modus operandi” of a supply chain attack centers around an individual or team of bad actors targeting an organization not directly (as that would be too obvious) but rather through an external trusted partner or supplier who may have some manner of access to the organization’s systems. This new route for hackers has grown within the last few years and has transformed the attack surfaces significantly from not just the target organization itself but now across all companies, sup- pliers, and service providers that have any manner of touchpoints within the organization.
 
 ![OSINT](/assets/img/python-thru-to-2019.png)
 
-## Why Python? Why now?
+This now presents a clear and present danger to organizations as sensitive data inside the organization that is accessible by trusted partners outside the organization can now become the source of a data breach or worse still a malware injection. This danger can be compounded if the target organization is a “supplier-of-suppliers” who happen to house sensitive infor- mation about other suppliers on their systems. Like almost everything in the internet age, the danger growth curve is expo- nential in nature.
+
+The graphic below clearly outlines the rise of Python (thru to 2019). 
+
+## Preventing Cyber Attacks
 
 Beyond necessary skills in networking and operating systems the greatest asset for anyone entering the InfoSec space is knowledge of programming. Specifically, the knowledge of Python. This will put you in a great place to exercise both your hacking skills and learn from the best proponents in the field. 
 
