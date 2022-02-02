@@ -6,7 +6,7 @@ cover-img: /assets/img/python-to-the-rescue-header.png
 thumbnail-img: /assets/img/python-thumb.png
 share-img: /assets/img/python-to-the-rescue-header.png
 permalink: /infosec/securing-the-supply-chain/
-published: true
+published: false
 refsite1: https://en.wikipedia.org/wiki/Computer_program
 refsite2: https://www.imperva.com/blog/the-worlds-most-popular-coding-language-happens-to-be-most-hackers-weapon-of-choice/
 tags: [books, infosec]
@@ -46,35 +46,11 @@ The “modus operandi” of a supply chain attack centers around an individual o
 
 This now presents a clear and present danger to organizations as sensitive data inside the organization that is accessible by trusted partners outside the organization can now become the source of a data breach or worse still a malware injection. This danger can be compounded if the target organization is a “supplier-of-suppliers” who happen to house sensitive infor- mation about other suppliers on their systems. Like almost everything in the internet age, the danger growth curve is expo- nential in nature.
 
-The graphic below clearly outlines the rise of Python (thru to 2019). 
+## Prevent Cyber Attacks
 
-## Preventing Cyber Attacks
+Besides the basic rule of thumb to always work to reduce the attack surface of an organization, a number of steps can be taken both by manufacturers and suppliers to prevent attacks and harden system integrity.
 
-Beyond necessary skills in networking and operating systems the greatest asset for anyone entering the InfoSec space is knowledge of programming. Specifically, the knowledge of Python. This will put you in a great place to exercise both your hacking skills and learn from the best proponents in the field. 
-
-- Although some people may have cringed at the idea of getting into programming (and the associated math) that gets over their heads from earlier bitter experiences in high school (or elsewhere), programming in and of itself can be a very rewarding pursuit both within cyber security field and other domains. This skill is transferable!
-
-- Python through no accident of itself has become the language of choice for hackers worldwide. Its acceptance by the developer communities has been dramatic and places it at the forefront of others languages within this domain (and others). This is evidenced by the large number of Python repositories and tools available on Github alone. A cursory review found that well over 20% of all exploits and attack tools were written in Python. 
-
-The chart below sheds clarity on this particular programming phenomenon and the degree to which Python has taken the lead in this domain.
-
-![OSINT](/assets/img/python-market-percentage.png)
-
-- The two most popular Python modules used for web-based attacks were “Urllib” and “Requests”. Another newer module “Async IO” is also gaining ground recently as it fits in perfectly for “Layer 7 DDos” type attacks.
-
-- Analysis done on sites that were attacked shows that an alarming 77% were initiated by a Python based tool and in over 30% of cases a Python based tool was responsible for the daily attacks under the APT umbrella.
-
-![OSINT](/assets/img/percent-sites-attacked-by-python.png)
-
-- Python is also well placed for attack on some of the most popular frameworks used on the web, such as Joomla, Drupal, WordPress, PHP and Struts. 
-
-In short, there is ample evidence within business and industry that Python is becoming the de facto language for exploit development and attacks. 
-
-## Benefits
-
-Organizations need to looking at some of the following steps as a minimum requirement if they are to prevent embarrassing repeat attacks due to VPN vulnerabilities.
-
-1.	**Ease of Use**: Although Python is a high-level language it is still far easier to learn than other languages such as Java, JavaScript, C++, C# etc.  This is one of its biggest draws for new developers and young learners evidenced by the sky-high sales of the Raspberry PI for schools and first-time programming students which comes bundled with Python on board. Being so beginner friendly it’s possible to write some basic programs within a few hours of starting your learning path.
+1.	**Supplier Security Standards and Policy**: Manufacturers should hold suppliers in their supply chain accountable by issuing necessary Cyber Security Standard documents or policies that they must abide by to win business and orders from the manufacturer. Larger industry vendors may already be following this regime with their customers, so it’s only a matter of validating compliance for them, but smaller vendors will be challenged in this area due to increased staffing costs and skills needed to comply.
 
 2.	**Open Source**: Python is both Free and Open Source and has been available for several platforms (Windows, Mac, Linux etc.) for download from its official website at python.org. The source code is freely available to the public.
 
