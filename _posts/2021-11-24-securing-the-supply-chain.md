@@ -12,7 +12,7 @@ refsite2: https://www.imperva.com/blog/the-worlds-most-popular-coding-language-h
 tags: [books, infosec]
 ---
 
-At no time since the dawn of the Industrial Revolution have manufacturing businesses thrived on the diversification and choice of vendors, the globalization of suppliers and manpower services, and the accelerated growth of the customer base due to improved infrastructure, shipping routes, and the internet.
+At no time since the dawn of the Industrial Revolution have manufacturing businesses thrived on the diversification and choice of vendors, the globalization of suppliers and manpower services, and the accelerated growth of the customer base due to improved infrastructure, shipping routes, and the internet...
 
 However, as software has brought immense accessibility and reach to billions of customers, it has also become an Achilles heel when used in concert with bad actors to disrupt, destroy and debilitate otherwise healthy and profitable organizations.
 
