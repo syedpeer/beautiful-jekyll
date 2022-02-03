@@ -3,8 +3,8 @@ layout: post
 title: Securing The Supply Chain
 subtitle: How fragile is your supply chain?
 cover-img: /assets/img/securing-the-supply-chain-header.png
-thumbnail-img: /assets/img/python-thumb.png
-share-img: /assets/img/python-to-the-rescue-header.png
+thumbnail-img: /assets/img/H9-securing-the-supply-chain-thumb.png
+share-img: /assets/img/securing-the-supply-chain-header.png
 permalink: /infosec/securing-the-supply-chain/
 published: true
 refsite1: https://en.wikipedia.org/wiki/Supply_chain_attack
