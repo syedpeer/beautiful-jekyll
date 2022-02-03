@@ -6,7 +6,7 @@ cover-img: /assets/img/securing-the-supply-chain-header.png
 thumbnail-img: /assets/img/python-thumb.png
 share-img: /assets/img/python-to-the-rescue-header.png
 permalink: /infosec/securing-the-supply-chain/
-published: false
+published: true
 refsite1: https://en.wikipedia.org/wiki/Computer_program
 refsite2: https://www.imperva.com/blog/the-worlds-most-popular-coding-language-happens-to-be-most-hackers-weapon-of-choice/
 tags: [books, infosec]
