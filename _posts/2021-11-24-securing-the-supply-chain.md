@@ -2,16 +2,16 @@
 layout: post
 title: Securing The Supply Chain
 subtitle: How fragile is your supply chain?
-cover-img: /assets/img/H9-securing-the-supply-chain-header.png
+cover-img: /assets/img/H9-securing-the-supply-chain-header.jpg
 thumbnail-img: /assets/img/H9-securing-the-supply-chain-thumb.jpg
-share-img: /assets/img/H9-securing-the-supply-chain-header.png
+share-img: /assets/img/H9-securing-the-supply-chain-header.jpg
 permalink: /infosec/securing-the-supply-chain/
 published: true
 refsite1: https://en.wikipedia.org/wiki/Supply_chain_attack
 refsite2: https://www.upguard.com/blog/how-to-prevent-supply-chain-attacks
 refsite3: https://www.wired.com/story/hacker-lexicon-what-is-a-supply-chain-attack/
 refsite4: https://www.sonatype.com/resources/white-paper-state-of-the-software-supply-chain-2020
-tags: [books, infosec]
+tags: [infosec]
 ---
 
 At no time since the dawn of the Industrial Revolution have manufacturing businesses thrived on the diversification and choice of vendors, the globalization of suppliers and manpower services, and the accelerated growth of the customer base due to improved infrastructure, shipping routes, and the internet...
@@ -87,7 +87,7 @@ For businesses, both large and small, all the reasons above, and probably some n
 
 ### Published version.
 
-[![OSINT](/assets/img/H9-securing-the-supply-chain-cover.jpg)](/assets/pdfs/H9-securing-the-supply-chain.pdf){:target="_blank"}
+[![OSINT](/assets/img/H9-securing-the-supply-chain-cover-mag.jpg)](/assets/pdfs/H9-securing-the-supply-chain.pdf){:target="_blank"}
 
 <div class="views">
     <span class="views">
