@@ -87,7 +87,7 @@ For businesses, both large and small, all the reasons above, and probably some n
 
 ### Published version.
 
-[![OSINT](/assets/img/H9-python-to-the-rescue-mag-cover.jpg)](/assets/pdfs/H9-Best-Hacking-Tech.pdf){:target="_blank"}
+[![OSINT](/assets/img/H9-securing-the-supply-chain-cover.jpg)](/assets/pdfs/H9-securing-the-supply-chain.pdf){:target="_blank"}
 
 <div class="views">
     <span class="views">
