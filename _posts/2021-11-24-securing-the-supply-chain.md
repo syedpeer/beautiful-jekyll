@@ -2,7 +2,7 @@
 layout: post
 title: Securing The Supply Chain
 subtitle: How fragile is your supply chain?
-cover-img: /assets/img/securing-the-supply-chain-header.jpg
+cover-img: /assets/img/securing-the-supply-chain-header.png
 thumbnail-img: /assets/img/H9-securing-the-supply-chain-thumb.jpg
 share-img: /assets/img/securing-the-supply-chain-header.png
 permalink: /infosec/securing-the-supply-chain/
