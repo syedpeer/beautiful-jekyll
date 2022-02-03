@@ -7,8 +7,10 @@ thumbnail-img: /assets/img/python-thumb.png
 share-img: /assets/img/python-to-the-rescue-header.png
 permalink: /infosec/securing-the-supply-chain/
 published: true
-refsite1: https://en.wikipedia.org/wiki/Computer_program
-refsite2: https://www.imperva.com/blog/the-worlds-most-popular-coding-language-happens-to-be-most-hackers-weapon-of-choice/
+refsite1: https://en.wikipedia.org/wiki/Supply_chain_attack
+refsite2: https://www.upguard.com/blog/how-to-prevent-supply-chain-attacks
+refsite3: https://www.wired.com/story/hacker-lexicon-what-is-a-supply-chain-attack/
+refsite4: https://www.sonatype.com/resources/white-paper-state-of-the-software-supply-chain-2020
 tags: [books, infosec]
 ---
 
@@ -24,9 +26,9 @@ However, as software has brought immense accessibility and reach to billions of 
 
 </blockquote>
 
-## Definition 
+## Definition
 
-As defined by Wikipedia: 
+As defined by Wikipedia:
 
 <blockquote>
 
@@ -50,32 +52,34 @@ This now presents a clear and present danger to organizations as sensitive data 
 
 Besides the basic rule of thumb to always work to reduce the attack surface of an organization, a number of steps can be taken both by manufacturers and suppliers to prevent attacks and harden system integrity.
 
-1.	**Supplier Security Standards and Policy**: Manufacturers should hold suppliers in their supply chain accountable by issuing necessary Cyber Security Standard documents or policies that they must abide by to win business and orders from the manufacturer. Larger industry vendors may already be following this regime with their customers, so it’s only a matter of validating compliance for them, but smaller vendors will be challenged in this area due to increased staffing costs and skills needed to comply.
+1.	**Supplier Security Standards and Policy**: Suppliers should implement improved controls on their code deliv- ery platforms that aggregate, compile, build and distribute software to prevent malware injection and root-kit infusion into the customer deliverable. The recent Solar Winds debacle is just one of the most notable instances of an upgrade in- staller being compromised and affecting hundreds of customers. Ironically, one of the highest-profile companies compro- mised in that attack was FireEye, a notable cybersecurity provider itself. Other firms, like MalwareBytes, were also tar- geted together with behemoths like Microsoft.
 
-2.	**Open Source**: Python is both Free and Open Source and has been available for several platforms (Windows, Mac, Linux etc.) for download from its official website at python.org. The source code is freely available to the public.
+2.	**Software Development Life Cycle Hardening**: Python is both Free and Open Source and has been available for several platforms (Windows, Mac, Linux etc.) for download from its official website at python.org. The source code is freely available to the public.
 
-3.	**Interpreted Language**: As a high-level language Python is an interpreted language that executes a single line of code instruction at a time. Unlike other languages such as Java, C++ or C# there is no compilation stage to create the executable. This shortens the development time to test new features and changes and is somewhat easier to debug at a line by line level. Python is converted to bytecode at execution time.  
+3.	**Secure Access and Privileges**: Organizations should ensure that Suppliers’ Access and Privileges are regularly re- viewed and strengthened as part of the Annual Risk Assessment Cycle. Too often, organizations are engrossed in their pe- rimeter defenses looking both inwards and outwards without realizing that their most potent adversary may be using the front door to enter their compound.
 
-4.	**Portability**: Being an interpreted language, Python code has the added benefit of being portable across platforms. Python code developed initially on Windows for example will run “unaltered” on other platforms such as Unix, Linux, Mac etc. In this way the Python programming language really lives up to the axiom of “write once, run everywhere”.
+4.	**Industry Security Certification**: Manufacturers may demand that their suppliers work towards implementing a recog- nized industry supply chain security certification standard such as ISO 28000. This may not be reasonable for smaller out- fits but the largest suppliers will have no trouble implementing the necessary framework and obtaining the associated cer- tification. Attackers will frequently seek out some of the smaller suppliers knowing full well that they may not have the finances or expertise in-house to implement sophisticated controls necessary to thwart their intrusion.
 
-5.	**Object Oriented**: Python comes standard with necessary features for Object Oriented Programming (OOP), supporting classes, inheritance and object/data encapsulation etc. This makes it a lot easier for programmers coming from other languages to jump in quickly and make use of the powerful OOP features that are natively supported within Python. 
+5.	**Zero Trust Architecture (ZTA)**: When dealing with vendors’ interactions, their customers should be prepared to adopt a Zero Trust Architecture (ZTA) approach. All network activity with the vendor must be considered malicious by default. Only after each connection request passes a strict list of policies is it permitted to access the sensitive and intellec- tual property within the customer systems.
 
-6.	**Exploit Writing**: Being a general-purpose language Python is used extensively for exploit writing by hackers worldwide.  It is the language of choice for millions of hackers and remains the foremost tool for writing exploits, hacking scripts and malware. It would be foolish for any aspiring cyber security student to ignore its importance in this area.
+6.	**Cyber Security Awareness Program**: Manufacturers may require their suppliers to institute a meaningful Cyber Se- curity Awareness Program in-house to educate their staff and all data-facing team members of the dangers of malicious attacks and methods of recognizing a threat vector. Even the most administrative of roles such as accounting, payroll, and HR would have access to some of the most sensitive data yet are oblivious of the simplest of measures required to im- prove their security posture whilst being targeted continually by phishing emails. Awareness programs should not be treated as a panacea but rather another complementary tool in the armor to improve defenses, as too often humans pre- sent the most vulnerable of interfaces for hackers.
 
-7.	**Large Standard Library**: Python is blessed with a large standard library of functions and modules so that you do not need to reinvent the wheel. Many libraries provide the necessary functionality for web surfing, regular expressions (regex), and unit testing just to name a few. This ready tool belt of functions means a huge step up boost for developers from the get go. 
+7.	**Open Source Software & Platforms**: Vendors should regularly review the usage and suitability of Open Source soft- ware to ensure that the tools they take for granted have not been compromised and are contributing to disseminating mal- ware to their customers. Software build tools require particular attention here as they are the ones responsible for packag- ing the final executable for distribution that ships to the customer at large. In fact, according to Sonatype’s 2020 State of the Software Supply Chain Report, 90 % of all apps use open-source code, and 11 % of them have known vulnerabilities.
 
-8.	**Extensibility**: Python is by nature an extensible language. The availability of ready-made modules makes hacking easier with Python. Modules are available based on the target audience and platform; OS modules, socket modules, web scraping etc. Python may also be used for socket programming for discovering vulnerabilities in target systems.
+8.	**Independent 3rd party Risk Assessments**: Although we all try to abide by an honor system in our daily lives and business transactions, this may not be the same when working with vendors. Rather than leaving this to chance, manufac- turers are encouraged to require vendors to allow access to Third Party Risk Assessments that generate reports to be re- turned to the manufacturer to validate their trust. Vendors will rarely do this voluntarily so it’s up to their customers to insist on these checks and balances being in place. Such third-party risk assessments will demonstrate clearly to custom- ers the security posture of vendors and if they need to improve their position further or risk losing business because of it.
 
-9.	**Huge Community**: Python has an enormous community of users, contributors and third-party tool builders. Python has a low entry bar for beginners and provides the perfect tool for writing automation scripts and prototyping ideas quickly and confidently across domains.
+9.	**Reduce Outsourcing**: The globalization of manufacturing and services during the last three decades has led to a web of interdependencies that has been brought into sharp contrast due to the COVID-19 pandemic and its associated restric- tions. This has expanded the attack surface greatly, allowing hackers to focus on low-hanging fruit, such as poorly pre- pared and defended downstream supply chain vendors, thereby getting backdoor access to some of the largest corpora- tions and their systems through the supplied products. Compromised electronics and semiconductors products used within the US military, government, and vital civilian platforms provide foreign adversaries with possible backdoors to attack these systems at will. This is especially concerning in the energy and power distribution industry with many IoT devices being supplied from abroad.
+
+This list is by no means final or conclusive of all opportunities for improving the supply chain conundrum. At best, it pro- vides some minimum guidelines on areas that need to be addressed to reduce the attack surface.
 
 ## Conclusion
 
-For all the reasons above, and some I may have missed, it should be manifestly clear to the reader by now that Python is the language of choice for cyber security professionals. Take the time to do your own research and see how much you can expand your frame of reference by adding a programming language to your tool belt. Just make sure its Python!
+For businesses, both large and small, all the reasons above, and probably some not listed, demonstrate how the threat land- scape has changed when building products and services are reliant on an advanced supply chain of trusted partners and 3rd party tools. The seaports in Los Angeles account for around 60% of all in-bound import merchandise and products arriving into the US. Yet they have been backed up for months with a whole armada of container ships waiting to dock and unload. The pandemic of 2019/2020/2021 has laid bare just how fragile our supply chain networks are with shortages predicted in the near and long term. Car dealerships are flush with pre-owned models while the latest models float aimlessly in the holds of ships anchored at the Pacific ports waiting their turn to unload. Manufacturers are unable to meet or ship orders due to chip shortages that may not recede for months to come. The supply chain is the oxygen of the world economy and needs to be protected if industry and the whole economic system is to survive.
 
 ## References
 
 1. Wikipedia Definition: <a href="{{page.refsite1}}" target="_blank">Computer Program </a>
-2. Most Popular Coding Language: <a href="{{page.refsite2}}"  target="_blank">Hackers Weapon of Choice</a>
+2. 11 Ways to Prevent Supply Chain Attacks in 2021 (HighlyEffective): <a href="{{page.refsite2}}"  target="_blank">How to prevent</a>
 
 ### Published version.
 
