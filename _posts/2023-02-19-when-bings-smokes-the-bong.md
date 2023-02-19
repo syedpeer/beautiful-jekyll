@@ -6,7 +6,7 @@ cover-img: /assets/img/H9-socmint-masthead.jpg
 thumbnail-img: /assets/img/H9-socmint-thumb.jpg
 share-img: /assets/img/H9-socmint-masthead.jpg
 permalink: /infosec/bing-bong/
-published: false
+published: true
 refsite1: https://en.wikipedia.org/wiki/Open-source_intelligence
 refsite2: https://www.knowledgenile.com/blogs/osint-challenges/
 refsite3: https://responsibledata.io/2016/11/14/responsible-data-open-source-intelligence/
